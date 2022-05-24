@@ -1,0 +1,2 @@
+# faroese-resources
+Faroese resources
