@@ -16,4 +16,9 @@
 
 ## Faroese
 
+### History
+
+* [heimabeiti.fo - Hvussu gomul er bygdin](https://web.archive.org/web/20150715224410/http://heimabeiti.fo/default.asp?menu=152)
+* [history.fo - Jarðarbókin 1584](http://history.fo/index.php?id=889)
+
 ## Polish
