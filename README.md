@@ -6,6 +6,7 @@
 
 * [A basic course on Faroese language for beginners](https://archive.org/details/ColloquialFaroese/page/n3/mode/1up?view=theater)
 * [Neologisms](http://malrad.fo/page.php?Id=126&l=fo)
+* [sprotin.fo - the dictionary](https://sprotin.fo/dictionaries)
 
 ### History
 
