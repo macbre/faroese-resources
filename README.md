@@ -6,7 +6,8 @@
 
 * [A basic course on Faroese language for beginners](https://archive.org/details/ColloquialFaroese/page/n3/mode/1up?view=theater)
 * [Neologisms](http://malrad.fo/page.php?Id=126&l=fo)
-* [sprotin.fo - the dictionary](https://sprotin.fo/dictionaries)
+* [sprotin.fo - online dictionary](https://sprotin.fo/dictionaries)
+* [Føroysk-ensk orðabók = Faroese-English dictionary](https://archive.org/details/bub_gb_XfvZ9J4oABwC?view=theater)
 
 ### History
 
@@ -20,5 +21,7 @@
 
 * [heimabeiti.fo - Hvussu gomul er bygdin](https://web.archive.org/web/20150715224410/http://heimabeiti.fo/default.asp?menu=152)
 * [history.fo - Jarðarbókin 1584](http://history.fo/index.php?id=889)
+* [Færøsk anthologi : Hammershaimb, V. U. (Venceslaus Ulricus)](https://archive.org/details/frskanthologivo00denmgoog)
+* [Føroya søga : Hans Jacob Debes](https://archive.org/details/bub_gb_IOchF9PaNKEC/page/n161/mode/2up)
 
 ## Polish
