@@ -16,6 +16,10 @@
 * [Pen and pencil sketches of Faröe and Iceland. With an appendix containing translations from the Icelandic and 51 illustrations engraved on wood by W. J. Linton : Symington, Andrew James, b. 1825](https://archive.org/details/penpencilsketche00symirich)
 * [See a bit of all cities and villages on the Faroe Islands](https://faroeislands.dk/pages/index.htm)
 
+### News
+
+* [local.fo - news in English](https://local.fo/)
+
 
 ## Faroese
 
