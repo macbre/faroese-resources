@@ -28,7 +28,6 @@
 
 * [heimabeiti.fo - Hvussu gomul er bygdin](https://web.archive.org/web/20150715224410/http://heimabeiti.fo/default.asp?menu=152)
 * [history.fo - Jarðarbókin 1584](http://history.fo/index.php?id=889)
-* [Færøsk anthologi : Hammershaimb, V. U. (Venceslaus Ulricus)](https://archive.org/details/frskanthologivo00denmgoog)
 * [Føroya søga : Hans Jacob Debes](https://archive.org/details/bub_gb_IOchF9PaNKEC/page/n161/mode/2up)
 
 ## Polish
@@ -37,7 +36,8 @@
 
 ## Danish
 
-### Legends
+### Legends and history
 
 * [Schrøter, Johan Hendrik og Hammershaimb, V.U. (1852). «Færøiske folkesagn](http://runeberg.org/antiqdk/18491851/0188.html) (includes villlage names origins)
 * [Færøske folkesagn og æventyr udg. for Samfund til udgivelse af gammel nordisk literatur : Jakobsen, Jakob](https://archive.org/details/frskefolkesagno00jakogoog)
+* [Færøsk anthologi : Hammershaimb, V. U. (Venceslaus Ulricus)](https://archive.org/details/frskanthologivo00denmgoog)
