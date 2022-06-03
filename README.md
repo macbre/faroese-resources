@@ -32,6 +32,8 @@
 
 ## Polish
 
+* [Bibliografia i źródła - lista na nordycka.wikia.com](https://nordycka.fandom.com/wiki/U%C5%BCytkownik:Macbre/Wyspy_Owcze)
+
 ## Danish
 
 ### Legends
