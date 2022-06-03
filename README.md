@@ -31,3 +31,9 @@
 * [Føroya søga : Hans Jacob Debes](https://archive.org/details/bub_gb_IOchF9PaNKEC/page/n161/mode/2up)
 
 ## Polish
+
+## Danish
+
+### Legends
+
+* [Schrøter, Johan Hendrik og Hammershaimb, V.U. (1852). «Færøiske folkesagn](http://runeberg.org/antiqdk/18491851/0188.html) (includes villlage names origins)
