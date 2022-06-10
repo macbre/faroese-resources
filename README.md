@@ -30,6 +30,10 @@
 * [history.fo - Jarðarbókin 1584](http://history.fo/index.php?id=889)
 * [Føroya søga : Hans Jacob Debes](https://archive.org/details/bub_gb_IOchF9PaNKEC/page/n161/mode/2up)
 
+### Blogs
+
+* [https://birkblog.blogspot.com](Bloggur hjá Birgir Kruse)
+
 ## Polish
 
 * [Bibliografia i źródła - lista na nordycka.wikia.com](https://nordycka.fandom.com/wiki/U%C5%BCytkownik:Macbre/Wyspy_Owcze)
