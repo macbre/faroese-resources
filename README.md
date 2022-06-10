@@ -29,10 +29,11 @@
 * [heimabeiti.fo - Hvussu gomul er bygdin](https://web.archive.org/web/20150715224410/http://heimabeiti.fo/default.asp?menu=152)
 * [history.fo - Jarðarbókin 1584](http://history.fo/index.php?id=889)
 * [Føroya søga : Hans Jacob Debes](https://archive.org/details/bub_gb_IOchF9PaNKEC/page/n161/mode/2up)
+* [Faroese press archives](https://apps.infomedia.dk/avisportal/da/fao)
 
 ### Blogs
 
-* [https://birkblog.blogspot.com](Bloggur hjá Birgir Kruse)
+* [Bloggur hjá Birgir Kruse](https://birkblog.blogspot.com)
 
 ## Polish
 
