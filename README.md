@@ -29,7 +29,7 @@
 
 ### Others
 
-* [Faroese information boards on Flickr]()https://www.flickr.com/groups/faroese-infornation-boards/
+* [Faroese information boards on Flickr](https://www.flickr.com/groups/faroese-infornation-boards/)
 
 ## Faroese
 
