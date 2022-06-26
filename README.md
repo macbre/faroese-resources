@@ -27,6 +27,9 @@
 
 * [local.fo - news in English](https://local.fo/)
 
+### Others
+
+* [Faroese information boards on Flickr]()https://www.flickr.com/groups/faroese-infornation-boards/
 
 ## Faroese
 
