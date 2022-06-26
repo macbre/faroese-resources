@@ -5,6 +5,7 @@
 ### The language
 
 * [A basic course on Faroese language for beginners](https://archive.org/details/ColloquialFaroese/page/n3/mode/1up?view=theater)
+* [A basic course on Faroese language for beginners (grammar book)](https://fdocuments.in/download/faroese-a-language-course-for-beginners-grammar-book)
 * [Neologisms](http://malrad.fo/page.php?Id=126&l=fo)
 * [sprotin.fo - online dictionary](https://sprotin.fo/dictionaries)
 * [Føroysk-ensk orðabók = Faroese-English dictionary](https://archive.org/details/bub_gb_XfvZ9J4oABwC?view=theater)
