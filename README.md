@@ -13,6 +13,10 @@
 * [Faroese (Faringisch, Faroisch, Farisch), Helge Sandoy](https://folk.uib.no/hnohs/Publikasjonar/Sandoy,%200951%20Faroese,%20Wieser%20E.pdf) (includes a chapter on "Language policy and politics, attitudes")
 * [Danish in the Faroe Islands: A Post-Colonial Perspective](https://discovery.ucl.ac.uk/id/eprint/1348494/1/1348494_Complete_Thesis_Public_-_John_Mitchinson.pdf)
 
+### Nature
+
+* [Birds of the Faroe Islands](https://old.visitfaroeislands.com/media/181923/Visit-Faroe-Islands-Birds_UK-singlepages.pdf)
+
 ### History
 
 * [From the Vikings to the Reformation A Chronicle of the Faroe Islands Up to 1538 : George Vaughan Chichester Young](https://archive.org/details/bub_gb_SkeKjJC4GeoC/page/n2/mode/1up?view=theater)
