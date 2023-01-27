@@ -1,0 +1,10 @@
+{
+  "name": "faroese-resource-data",
+  "version": "1.0.0",
+  "description": "Scripts for collecting Faroese-related data",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maciej Brencz",
+  "license": "ISC"
+}
