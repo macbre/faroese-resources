@@ -72,6 +72,16 @@ async function getArticleInLang(article, langCode) {
 }
 
 /**
+ *
+ * @param {string} article
+ * @return {Promise<string>}
+ */
+async function getDescription(article) {
+  const res = await wikidataClient.getArticleDescriptions(article);
+  return res["en"].value ?? null;
+}
+
+/**
  * @param {string} article
  * @return {Promise<string|null>}
  */
@@ -170,6 +180,7 @@ async function main() {
 
     results.villages.push({
       name: article,
+      description: await getDescription(article),
       ipa: await getIPA(article),
       geo: await getGeo(article),
     });
