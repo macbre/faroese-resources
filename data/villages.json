@@ -1,0 +1,1071 @@
+{
+  "villages": [
+    {
+      "name": "Towns of the Faroe Islands",
+      "ipa": null,
+      "geo": null
+    },
+    {
+      "name": "Æðuvík",
+      "ipa": "ˈɛavʊvʊik",
+      "geo": {
+        "latitude": 62.069722222222,
+        "longitude": -6.69,
+        "metaTag": "62.0697, -6.6900"
+      }
+    },
+    {
+      "name": "Akrar",
+      "ipa": null,
+      "geo": {
+        "latitude": 61.455555555556,
+        "longitude": -6.7591666666667,
+        "metaTag": "61.4556, -6.7592"
+      }
+    },
+    {
+      "name": "Ánirnar",
+      "ipa": "ˈɔanɪɹ",
+      "geo": {
+        "latitude": 62.256388888889,
+        "longitude": -6.5777777777778,
+        "metaTag": "62.2564, -6.5778"
+      }
+    },
+    {
+      "name": "Argir",
+      "ipa": "ˈaɹʤɪɹ",
+      "geo": {
+        "latitude": 61.996666666667,
+        "longitude": -6.7777777777778,
+        "metaTag": "61.9967, -6.7778"
+      }
+    },
+    {
+      "name": "Árnafjørður",
+      "ipa": "ˈɔɹnaˌfjøːɹʊɹ",
+      "geo": {
+        "latitude": 62.255833333333,
+        "longitude": -6.5341666666667,
+        "metaTag": "62.2558, -6.5342"
+      }
+    },
+    {
+      "name": "Bøur",
+      "ipa": "ˈbøvʊɹ",
+      "geo": {
+        "latitude": 62.090833333333,
+        "longitude": -7.3675,
+        "metaTag": "62.0908, -7.3675"
+      }
+    },
+    {
+      "name": "Dalur",
+      "ipa": "ˈdɛalʊr",
+      "geo": {
+        "latitude": 61.782222222222,
+        "longitude": -6.6755555555556,
+        "metaTag": "61.7822, -6.6756"
+      }
+    },
+    {
+      "name": "Depil",
+      "ipa": "deːpɪl",
+      "geo": {
+        "latitude": 62.286111111111,
+        "longitude": -6.5275,
+        "metaTag": "62.2861, -6.5275"
+      }
+    },
+    {
+      "name": "Dímun",
+      "ipa": null,
+      "geo": {
+        "latitude": 61.6848,
+        "longitude": -6.7562,
+        "metaTag": "61.6848, -6.7562"
+      }
+    },
+    {
+      "name": "Elduvík",
+      "ipa": "ˈɛldʊvʊik",
+      "geo": {
+        "latitude": 62.282222222222,
+        "longitude": -6.9094444444444,
+        "metaTag": "62.2822, -6.9094"
+      }
+    },
+    {
+      "name": "Fámjin",
+      "ipa": "ˈfɔmjɪn",
+      "geo": {
+        "latitude": 61.526388888889,
+        "longitude": -6.8769444444444,
+        "metaTag": "61.5264, -6.8769"
+      }
+    },
+    {
+      "name": "Froðba",
+      "ipa": "ˈfɹoːba",
+      "geo": {
+        "latitude": 61.548055555556,
+        "longitude": -6.7722222222222,
+        "metaTag": "61.5481, -6.7722"
+      }
+    },
+    {
+      "name": "Fuglafjørður",
+      "ipa": "ˈfʊglaˌfjøːɹʊɹ",
+      "geo": {
+        "latitude": 62.244444444444,
+        "longitude": -6.8144444444444,
+        "metaTag": "62.2444, -6.8144"
+      }
+    },
+    {
+      "name": "Funningsfjørður",
+      "ipa": "ˈfʊnːɪŋgsˌfjøːɹʊɹ",
+      "geo": {
+        "latitude": 62.238055555556,
+        "longitude": -6.9288888888889,
+        "metaTag": "62.2381, -6.9289"
+      }
+    },
+    {
+      "name": "Funningur",
+      "ipa": "ˈfʊnːɪŋgʊɹ",
+      "geo": {
+        "latitude": 62.287777777778,
+        "longitude": -6.9669444444444,
+        "metaTag": "62.2878, -6.9669"
+      }
+    },
+    {
+      "name": "Gásadalur",
+      "ipa": "ˈgɔaːsaˌdɛaːlʊɹ",
+      "geo": {
+        "latitude": 62.112222222222,
+        "longitude": -7.4347222222222,
+        "metaTag": "62.1122, -7.4347"
+      }
+    },
+    {
+      "name": "Gjógv",
+      "ipa": "ʤɛgv",
+      "geo": {
+        "latitude": 62.325,
+        "longitude": -6.9411111111111,
+        "metaTag": "62.3250, -6.9411"
+      }
+    },
+    {
+      "name": "Glyvrar",
+      "ipa": "ˈgliːvɹaɹ",
+      "geo": {
+        "latitude": 62.131388888889,
+        "longitude": -6.7241666666667,
+        "metaTag": "62.1314, -6.7242"
+      }
+    },
+    {
+      "name": "Gøtueiði",
+      "ipa": "gøtʊˌaijɪ",
+      "geo": {
+        "latitude": 62.175,
+        "longitude": -6.7719444444444,
+        "metaTag": "62.1750, -6.7719"
+      }
+    },
+    {
+      "name": "Gøtugjógv",
+      "ipa": "ˈgøtʊʤɛgv",
+      "geo": {
+        "latitude": 62.190277777778,
+        "longitude": -6.7463888888889,
+        "metaTag": "62.1903, -6.7464"
+      }
+    },
+    {
+      "name": "Haldórsvík",
+      "ipa": "ˈhaldœɻʂˌvʊik",
+      "geo": {
+        "latitude": 62.275833333333,
+        "longitude": -7.0919444444444,
+        "metaTag": "62.2758, -7.0919"
+      }
+    },
+    {
+      "name": "Haraldssund",
+      "ipa": null,
+      "geo": {
+        "latitude": 62.272222222222,
+        "longitude": -6.6019444444444,
+        "metaTag": "62.2722, -6.6019"
+      }
+    },
+    {
+      "name": "Hattarvík",
+      "ipa": "ˈhatːaɹvʊik",
+      "geo": {
+        "latitude": 62.330833333333,
+        "longitude": -6.2736111111111,
+        "metaTag": "62.3308, -6.2736"
+      }
+    },
+    {
+      "name": "Hellurnar",
+      "ipa": "ˈhɛdlʊɹ",
+      "geo": {
+        "latitude": 62.263611111111,
+        "longitude": -6.8444444444444,
+        "metaTag": "62.2636, -6.8444"
+      }
+    },
+    {
+      "name": "Hestur",
+      "ipa": "ˈhɛstʊr",
+      "geo": {
+        "latitude": 61.9544,
+        "longitude": -6.895,
+        "metaTag": "61.9544, -6.8950"
+      }
+    },
+    {
+      "name": "Hestur, Hestur",
+      "ipa": null,
+      "geo": {
+        "latitude": 61.9575,
+        "longitude": -6.88694,
+        "metaTag": "61.9575, -6.8869"
+      }
+    },
+    {
+      "name": "Hósvík",
+      "ipa": "ˈhɔusvʊik",
+      "geo": {
+        "latitude": 62.154722222222,
+        "longitude": -6.9402777777778,
+        "metaTag": "62.1547, -6.9403"
+      }
+    },
+    {
+      "name": "Hov, Faroe Islands",
+      "ipa": "ˈhoː",
+      "geo": {
+        "latitude": 61.5066,
+        "longitude": -6.7611,
+        "metaTag": "61.5066, -6.7611"
+      }
+    },
+    {
+      "name": "Hoyvík",
+      "ipa": "ˈhɔivʊɪk",
+      "geo": {
+        "latitude": 62.025555555556,
+        "longitude": -6.7588888888889,
+        "metaTag": "62.0256, -6.7589"
+      }
+    },
+    {
+      "name": "Húsar",
+      "ipa": "ˈhʉusaɹ",
+      "geo": {
+        "latitude": 62.265,
+        "longitude": -6.6964,
+        "metaTag": "62.2650, -6.6964"
+      }
+    },
+    {
+      "name": "Húsavík, Faroe Islands",
+      "ipa": "ˈhʉusavʊik",
+      "geo": {
+        "latitude": 61.810555555556,
+        "longitude": -6.6763888888889,
+        "metaTag": "61.8106, -6.6764"
+      }
+    },
+    {
+      "name": "Hvalba",
+      "ipa": "'kvalba",
+      "geo": {
+        "latitude": 61.601944444444,
+        "longitude": -6.9494444444444,
+        "metaTag": "61.6019, -6.9494"
+      }
+    },
+    {
+      "name": "Hvalvík",
+      "ipa": "ˈkvalvʊik",
+      "geo": {
+        "latitude": 62.1865,
+        "longitude": -7.0347,
+        "metaTag": "62.1865, -7.0347"
+      }
+    },
+    {
+      "name": "Hvannasund",
+      "ipa": "ˈkvanːasʊnd",
+      "geo": {
+        "latitude": 62.295277777778,
+        "longitude": -6.5161111111111,
+        "metaTag": "62.2953, -6.5161"
+      }
+    },
+    {
+      "name": "Hvítanes",
+      "ipa": "ˈkvʊitaneːs",
+      "geo": {
+        "latitude": 62.046666666667,
+        "longitude": -6.7694444444444,
+        "metaTag": "62.0467, -6.7694"
+      }
+    },
+    {
+      "name": "Innan Glyvur",
+      "ipa": "ˌɪnːan ˈgliːvʊɹ",
+      "geo": {
+        "latitude": 62.139166666667,
+        "longitude": -6.7566666666667,
+        "metaTag": "62.1392, -6.7567"
+      }
+    },
+    {
+      "name": "Kaldbak",
+      "ipa": "ˈkalːbak",
+      "geo": {
+        "latitude": 62.063055555556,
+        "longitude": -6.8261111111111,
+        "metaTag": "62.0631, -6.8261"
+      }
+    },
+    {
+      "name": "Kaldbaksbotnur",
+      "ipa": "ˈkalːbaksˌbɔtnʊɹ",
+      "geo": {
+        "latitude": 62.066111111111,
+        "longitude": -6.9125,
+        "metaTag": "62.0661, -6.9125"
+      }
+    },
+    {
+      "name": "Kambsdalur",
+      "ipa": null,
+      "geo": {
+        "latitude": 62.2213,
+        "longitude": -6.8120388888889,
+        "metaTag": "62.2213, -6.8120"
+      }
+    },
+    {
+      "name": "Kirkja",
+      "ipa": "ˈtʃʰɪɻtʃʰa",
+      "geo": {
+        "latitude": 62.316666666667,
+        "longitude": -6.3166666666667,
+        "metaTag": "62.3167, -6.3167"
+      }
+    },
+    {
+      "name": "Kirkjubøur",
+      "ipa": "ˈtʃɪʃʊˌbøːʊr",
+      "geo": {
+        "latitude": 61.95583,
+        "longitude": -6.79333,
+        "metaTag": "61.9558, -6.7933"
+      }
+    },
+    {
+      "name": "Klaksvík",
+      "ipa": "ˈklakːsvʊik",
+      "geo": {
+        "latitude": 62.223888888889,
+        "longitude": -6.5786111111111,
+        "metaTag": "62.2239, -6.5786"
+      }
+    },
+    {
+      "name": "Kolbeinagjógv",
+      "ipa": "ˈkɔlbainadʒɛgv",
+      "geo": {
+        "latitude": 62.1,
+        "longitude": -6.7833333333333,
+        "metaTag": "62.1000, -6.7833"
+      }
+    },
+    {
+      "name": "Kollafjørður",
+      "ipa": "ˈkɔtlaˌfjøːɹʊɹ",
+      "geo": {
+        "latitude": 62.118333333333,
+        "longitude": -6.9055555555556,
+        "metaTag": "62.1183, -6.9056"
+      }
+    },
+    {
+      "name": "Koltur",
+      "ipa": "ˈkɔltʊr",
+      "geo": {
+        "latitude": 61.9891,
+        "longitude": -6.9763,
+        "metaTag": "61.9891, -6.9763"
+      }
+    },
+    {
+      "name": "Koltur, Koltur",
+      "ipa": null,
+      "geo": {
+        "latitude": 61.985,
+        "longitude": -6.966,
+        "metaTag": "61.9850, -6.9660"
+      }
+    },
+    {
+      "name": "Kunoy (village)",
+      "ipa": "ˈkuːnɪ",
+      "geo": {
+        "latitude": 62.293611111111,
+        "longitude": -6.6672222222222,
+        "metaTag": "62.2936, -6.6672"
+      }
+    },
+    {
+      "name": "Kvívík",
+      "ipa": "ˈkʰvʊivʊik",
+      "geo": {
+        "latitude": 62.120555555556,
+        "longitude": -7.0677777777778,
+        "metaTag": "62.1206, -7.0678"
+      }
+    },
+    {
+      "name": "Lamba (Faroe Islands)",
+      "ipa": null,
+      "geo": {
+        "latitude": 62.14222,
+        "longitude": -6.70194,
+        "metaTag": "62.1422, -6.7019"
+      }
+    },
+    {
+      "name": "Lambareiði",
+      "ipa": "ˈlambaɹˌaijɪ",
+      "geo": {
+        "latitude": 62.133333333333,
+        "longitude": -6.7166666666667,
+        "metaTag": "62.1333, -6.7167"
+      }
+    },
+    {
+      "name": "Langasandur",
+      "ipa": null,
+      "geo": {
+        "latitude": 62.237222222222,
+        "longitude": -7.0536111111111,
+        "metaTag": "62.2372, -7.0536"
+      }
+    },
+    {
+      "name": "Leirvík",
+      "ipa": "/ˈlɔɹvʊik/",
+      "geo": {
+        "latitude": 62.211111111111,
+        "longitude": -6.7061111111111,
+        "metaTag": "62.2111, -6.7061"
+      }
+    },
+    {
+      "name": "Leynar",
+      "ipa": "ˈlɛiːnaɹ",
+      "geo": {
+        "latitude": 62.116666666667,
+        "longitude": -7.0333333333333,
+        "metaTag": "62.1167, -7.0333"
+      }
+    },
+    {
+      "name": "Lopra",
+      "ipa": null,
+      "geo": {
+        "latitude": 61.442777777778,
+        "longitude": -6.7713888888889,
+        "metaTag": "61.4428, -6.7714"
+      }
+    },
+    {
+      "name": "Miðvágur",
+      "ipa": "ˈmiːvɔavuɹ",
+      "geo": {
+        "latitude": 62.051111111111,
+        "longitude": -7.1938888888889,
+        "metaTag": "62.0511, -7.1939"
+      }
+    },
+    {
+      "name": "Mikladalur",
+      "ipa": null,
+      "geo": {
+        "latitude": 62.335,
+        "longitude": -6.7669444444444,
+        "metaTag": "62.3350, -6.7669"
+      }
+    },
+    {
+      "name": "Morskranes",
+      "ipa": "ˈmɔskɹaneːs",
+      "geo": {
+        "latitude": 62.133333333333,
+        "longitude": -6.8333333333333,
+        "metaTag": "62.1333, -6.8333"
+      }
+    },
+    {
+      "name": "Múli",
+      "ipa": "ˈmʉulɪ",
+      "geo": {
+        "latitude": 62.35,
+        "longitude": -6.5797222222222,
+        "metaTag": "62.3500, -6.5797"
+      }
+    },
+    {
+      "name": "Mykines, Mykines",
+      "ipa": null,
+      "geo": {
+        "latitude": 62.10416667,
+        "longitude": -7.64611111,
+        "metaTag": "62.1042, -7.6461"
+      }
+    },
+    {
+      "name": "Nes, Eysturoy",
+      "ipa": "neːs",
+      "geo": {
+        "latitude": 62.082,
+        "longitude": -6.73,
+        "metaTag": "62.0820, -6.7300"
+      }
+    },
+    {
+      "name": "Nes, Vágur",
+      "ipa": "neːs",
+      "geo": {
+        "latitude": 61.4722,
+        "longitude": -6.7591694444444,
+        "metaTag": "61.4722, -6.7592"
+      }
+    },
+    {
+      "name": "Nesvík",
+      "ipa": "ˈneːsvʊik",
+      "geo": {
+        "latitude": 62.216666666667,
+        "longitude": -7.0166666666667,
+        "metaTag": "62.2167, -7.0167"
+      }
+    },
+    {
+      "name": "Nólsoy",
+      "ipa": "ˈnœlsɔi",
+      "geo": {
+        "latitude": 61.9846,
+        "longitude": -6.657,
+        "metaTag": "61.9846, -6.6570"
+      }
+    },
+    {
+      "name": "Norðdepil",
+      "ipa": "ˈnoːɹˌdeːpɪl",
+      "geo": {
+        "latitude": 62.3,
+        "longitude": -6.5166666666667,
+        "metaTag": "62.3000, -6.5167"
+      }
+    },
+    {
+      "name": "Norðoyri",
+      "ipa": "ˈnoːɹɔiɹɪ",
+      "geo": {
+        "latitude": 62.21666667,
+        "longitude": -6.53333333,
+        "metaTag": "62.2167, -6.5333"
+      }
+    },
+    {
+      "name": "Norðradalur",
+      "ipa": "ˈnoːɹaˌdɛalʊɹ",
+      "geo": {
+        "latitude": 62.041,
+        "longitude": -6.955,
+        "metaTag": "62.0410, -6.9550"
+      }
+    },
+    {
+      "name": "Norðragøta",
+      "ipa": "ˈnoːɹaˌgøːta",
+      "geo": {
+        "latitude": 62.200833333333,
+        "longitude": -6.7408333333333,
+        "metaTag": "62.2008, -6.7408"
+      }
+    },
+    {
+      "name": "Norðskáli",
+      "ipa": "ˈnoːɹˌskɔaːlɪ",
+      "geo": {
+        "latitude": 62.213055555556,
+        "longitude": -6.9997222222222,
+        "metaTag": "62.2131, -6.9997"
+      }
+    },
+    {
+      "name": "Norðtoftir",
+      "ipa": "ˈnoːɹˌtɔftɪɹ",
+      "geo": {
+        "latitude": 62.275,
+        "longitude": -6.5136111111111,
+        "metaTag": "62.2750, -6.5136"
+      }
+    },
+    {
+      "name": "Øravík",
+      "ipa": "ˈøːɹavʊik",
+      "geo": {
+        "latitude": 61.536111111111,
+        "longitude": -6.8086111111111,
+        "metaTag": "61.5361, -6.8086"
+      }
+    },
+    {
+      "name": "Øravíkarlíð",
+      "ipa": "ˈøːɹaˌvʊikaɹlʊi",
+      "geo": {
+        "latitude": 61.550555555556,
+        "longitude": -6.8277777777778,
+        "metaTag": "61.5506, -6.8278"
+      }
+    },
+    {
+      "name": "Oyndarfjørður",
+      "ipa": "ˈɔindaɹˌfjøːɹʊɹ",
+      "geo": {
+        "latitude": 62.276388888889,
+        "longitude": -6.8527777777778,
+        "metaTag": "62.2764, -6.8528"
+      }
+    },
+    {
+      "name": "Oyrarbakki",
+      "ipa": "ˈɔiɹaɹˌbaʰtʃɪ",
+      "geo": {
+        "latitude": 62.2,
+        "longitude": -6.9833333333333,
+        "metaTag": "62.2000, -6.9833"
+      }
+    },
+    {
+      "name": "Oyrareingir",
+      "ipa": "ˈɔiɹaɹˌɔnʤɪɹ",
+      "geo": {
+        "latitude": 62.105277777778,
+        "longitude": -6.9613888888889,
+        "metaTag": "62.1053, -6.9614"
+      }
+    },
+    {
+      "name": "Oyri",
+      "ipa": "ˈɔiɹɪ",
+      "geo": {
+        "latitude": 62.191666666667,
+        "longitude": -6.9875,
+        "metaTag": "62.1917, -6.9875"
+      }
+    },
+    {
+      "name": "Porkeri",
+      "ipa": "ˈpɔɻtʃʰɹɪ",
+      "geo": {
+        "latitude": 61.483055555556,
+        "longitude": -6.7433333333333,
+        "metaTag": "61.4831, -6.7433"
+      }
+    },
+    {
+      "name": "Rituvík",
+      "ipa": "ˈɹiːtʊvʊik",
+      "geo": {
+        "latitude": 62.109166666667,
+        "longitude": -6.6822222222222,
+        "metaTag": "62.1092, -6.6822"
+      }
+    },
+    {
+      "name": "Runavík",
+      "ipa": "ˈɹuːnavʊik",
+      "geo": {
+        "latitude": 62.109444444444,
+        "longitude": -6.7191666666667,
+        "metaTag": "62.1094, -6.7192"
+      }
+    },
+    {
+      "name": "Saksun",
+      "ipa": "ˈsaksʊn",
+      "geo": {
+        "latitude": 62.248888888889,
+        "longitude": -7.1758333333333,
+        "metaTag": "62.2489, -7.1758"
+      }
+    },
+    {
+      "name": "Saltangará",
+      "ipa": "ˈsaltaŋgaɹɔa",
+      "geo": {
+        "latitude": 62.116666666667,
+        "longitude": -6.7166666666667,
+        "metaTag": "62.1167, -6.7167"
+      }
+    },
+    {
+      "name": "Saltnes, Faroe Islands",
+      "ipa": "ˈsaltneːs",
+      "geo": {
+        "latitude": 62.1084,
+        "longitude": -6.741,
+        "metaTag": "62.1084, -6.7410"
+      }
+    },
+    {
+      "name": "Sandavágur",
+      "ipa": "ˈsandaˌvɔavʊɹ",
+      "geo": {
+        "latitude": 62.056666666667,
+        "longitude": -7.1541666666667,
+        "metaTag": "62.0567, -7.1542"
+      }
+    },
+    {
+      "name": "Sandur, Faroe Islands",
+      "ipa": null,
+      "geo": {
+        "latitude": 61.833611111111,
+        "longitude": -6.8169444444444,
+        "metaTag": "61.8336, -6.8169"
+      }
+    },
+    {
+      "name": "Sandvík",
+      "ipa": "ˈsanvʊik",
+      "geo": {
+        "latitude": 61.637777777778,
+        "longitude": -6.9219444444444,
+        "metaTag": "61.6378, -6.9219"
+      }
+    },
+    {
+      "name": "Selatrað",
+      "ipa": "ˈseːlatɹɛa",
+      "geo": {
+        "latitude": 62.1585,
+        "longitude": -6.8795,
+        "metaTag": "62.1585, -6.8795"
+      }
+    },
+    {
+      "name": "Signabøur",
+      "ipa": "ˈsɪgnaˌbøːvʊɹ",
+      "geo": {
+        "latitude": 62.085555555556,
+        "longitude": -6.9286111111111,
+        "metaTag": "62.0856, -6.9286"
+      }
+    },
+    {
+      "name": "Skælingur",
+      "ipa": "ˈskɛaːlɪŋgʊɹ",
+      "geo": {
+        "latitude": 62.1,
+        "longitude": -7,
+        "metaTag": "62.1000, -7.0000"
+      }
+    },
+    {
+      "name": "Skálafjørður (village)",
+      "ipa": "ˈskɔalaˌbɔtnʊɹ",
+      "geo": {
+        "latitude": 62.2,
+        "longitude": -6.85,
+        "metaTag": "62.2000, -6.8500"
+      }
+    },
+    {
+      "name": "Skálavík",
+      "ipa": "ˈskɔalavʊik",
+      "geo": {
+        "latitude": 61.833333333333,
+        "longitude": -6.65,
+        "metaTag": "61.8333, -6.6500"
+      }
+    },
+    {
+      "name": "Skála",
+      "ipa": "ˈskɔala",
+      "geo": {
+        "latitude": 62.159722222222,
+        "longitude": -6.7838888888889,
+        "metaTag": "62.1597, -6.7839"
+      }
+    },
+    {
+      "name": "Skarvanes",
+      "ipa": "ˈskaɹvaneːs",
+      "geo": {
+        "latitude": 61.793055555556,
+        "longitude": -6.7369444444444,
+        "metaTag": "61.7931, -6.7369"
+      }
+    },
+    {
+      "name": "Skipanes",
+      "ipa": "ˈʃiːpaneːs",
+      "geo": {
+        "latitude": 62.173611111111,
+        "longitude": -6.7722222222222,
+        "metaTag": "62.1736, -6.7722"
+      }
+    },
+    {
+      "name": "Skopun",
+      "ipa": "ˈskoːpʊn",
+      "geo": {
+        "latitude": 61.912447222222,
+        "longitude": -6.8718805555556,
+        "metaTag": "61.9124, -6.8719"
+      }
+    },
+    {
+      "name": "Skúvoy, Skúvoy",
+      "ipa": "ˈskʉuvɔi",
+      "geo": {
+        "latitude": 61.766666666667,
+        "longitude": -6.8,
+        "metaTag": "61.7667, -6.8000"
+      }
+    },
+    {
+      "name": "Søldarfjørður",
+      "ipa": "ˈsœldaɹˌfjøːɹʊɹ",
+      "geo": {
+        "latitude": 62.158611111111,
+        "longitude": -6.7530555555556,
+        "metaTag": "62.1586, -6.7531"
+      }
+    },
+    {
+      "name": "Sørvágur",
+      "ipa": "ˈsœrvɔavʊr",
+      "geo": {
+        "latitude": 62.070277777778,
+        "longitude": -7.3222222222222,
+        "metaTag": "62.0703, -7.3222"
+      }
+    },
+    {
+      "name": "Stóra Dímun",
+      "ipa": "ˈstɔuɹa ˈdʊimʊn",
+      "geo": {
+        "latitude": 61.6937,
+        "longitude": -6.7555,
+        "metaTag": "61.6937, -6.7555"
+      }
+    },
+    {
+      "name": "Strendur",
+      "ipa": null,
+      "geo": {
+        "latitude": 62.107,
+        "longitude": -6.762,
+        "metaTag": "62.1070, -6.7620"
+      }
+    },
+    {
+      "name": "Streymnes",
+      "ipa": "ˈstɹɛmneːs",
+      "geo": {
+        "latitude": 62.19138888888889,
+        "longitude": -7.0313888888888885,
+        "metaTag": "62.1914, -7.0314"
+      }
+    },
+    {
+      "name": "Stykkið",
+      "ipa": "ˈstɪʰʧɪ",
+      "geo": {
+        "latitude": 62.11611111111111,
+        "longitude": -7.049444444444444,
+        "metaTag": "62.1161, -7.0494"
+      }
+    },
+    {
+      "name": "Sumba, Faroe Islands",
+      "ipa": null,
+      "geo": {
+        "latitude": 61.404166666667,
+        "longitude": -6.7111111111111,
+        "metaTag": "61.4042, -6.7111"
+      }
+    },
+    {
+      "name": "Sund, Faroe Islands",
+      "ipa": null,
+      "geo": {
+        "latitude": 62.04861111,
+        "longitude": -6.84555556,
+        "metaTag": "62.0486, -6.8456"
+      }
+    },
+    {
+      "name": "Svínoy, Svínoy",
+      "ipa": "ˈsvʊinɪ",
+      "geo": {
+        "latitude": 62.279722222222,
+        "longitude": -6.3486111111111,
+        "metaTag": "62.2797, -6.3486"
+      }
+    },
+    {
+      "name": "Syðradalur, Streymoy Island",
+      "ipa": "ˈsiːɹaˌdɛalʊɹ",
+      "geo": {
+        "latitude": 62.01833333,
+        "longitude": -6.91277778,
+        "metaTag": "62.0183, -6.9128"
+      }
+    },
+    {
+      "name": "Syðradalur",
+      "ipa": "ˈsiːɹaˌdɛalʊɹ",
+      "geo": {
+        "latitude": 62.24527778,
+        "longitude": -6.66736111,
+        "metaTag": "62.2453, -6.6674"
+      }
+    },
+    {
+      "name": "Syðrugøta",
+      "ipa": "ˈsiːɹʊˌgøːta",
+      "geo": {
+        "latitude": 62.186,
+        "longitude": -6.756,
+        "metaTag": "62.1860, -6.7560"
+      }
+    },
+    {
+      "name": "Tjørnuvík",
+      "ipa": "ˈtʃʰœdnʊvʊik",
+      "geo": {
+        "latitude": 62.29,
+        "longitude": -7.1472222222222,
+        "metaTag": "62.2900, -7.1472"
+      }
+    },
+    {
+      "name": "Toftir",
+      "ipa": null,
+      "geo": {
+        "latitude": 62.0925,
+        "longitude": -6.7367,
+        "metaTag": "62.0925, -6.7367"
+      }
+    },
+    {
+      "name": "Tórshavn",
+      "ipa": "ɔuː",
+      "geo": {
+        "latitude": 62,
+        "longitude": -6.7833333333333,
+        "metaTag": "62.0000, -6.7833"
+      }
+    },
+    {
+      "name": "Trøllanes",
+      "ipa": "ˈtɹœdlaneːs",
+      "geo": {
+        "latitude": 62.361111111111,
+        "longitude": -6.7877777777778,
+        "metaTag": "62.3611, -6.7878"
+      }
+    },
+    {
+      "name": "Trongisvágur",
+      "ipa": "ˈøːɹavʊik",
+      "geo": {
+        "latitude": 61.563888888889,
+        "longitude": -6.8444444444444,
+        "metaTag": "61.5639, -6.8444"
+      }
+    },
+    {
+      "name": "Tvøroyri",
+      "ipa": "ˈtvøːɹɔiɹɪ",
+      "geo": {
+        "latitude": 61.555833333333,
+        "longitude": -6.8033333333333,
+        "metaTag": "61.5558, -6.8033"
+      }
+    },
+    {
+      "name": "Vágur",
+      "ipa": "ˈvɔavʊɹ",
+      "geo": {
+        "latitude": 61.473055555556,
+        "longitude": -6.8097222222222,
+        "metaTag": "61.4731, -6.8097"
+      }
+    },
+    {
+      "name": "Válur",
+      "ipa": "ˈvɔalʊɹ",
+      "geo": {
+        "latitude": 62.15,
+        "longitude": -7.154444444444445,
+        "metaTag": "62.1500, -7.1544"
+      }
+    },
+    {
+      "name": "Vatnsoyrar",
+      "ipa": "vatnsɔiɹaɹ",
+      "geo": {
+        "latitude": 62.074166666667,
+        "longitude": -7.2480555555556,
+        "metaTag": "62.0742, -7.2481"
+      }
+    },
+    {
+      "name": "Velbastaður",
+      "ipa": "ˈvɛlbaˌstɛavʊɹ",
+      "geo": {
+        "latitude": 61.984722222222,
+        "longitude": -6.8505555555556,
+        "metaTag": "61.9847, -6.8506"
+      }
+    },
+    {
+      "name": "Vestmanna",
+      "ipa": null,
+      "geo": {
+        "latitude": 62.156388888889,
+        "longitude": -7.1663888888889,
+        "metaTag": "62.1564, -7.1664"
+      }
+    },
+    {
+      "name": "Viðareiði",
+      "ipa": "ˈviːjaɹˌaijɪ",
+      "geo": {
+        "latitude": 62.3601,
+        "longitude": -6.5333,
+        "metaTag": "62.3601, -6.5333"
+      }
+    }
+  ]
+}
