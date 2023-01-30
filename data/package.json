@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Scripts for collecting Faroese-related data",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint:fix": "prettier -w *.js"
   },
   "author": "Maciej Brencz",
   "license": "ISC",
@@ -12,6 +13,7 @@
     "prettier": "^2.8.3"
   },
   "dependencies": {
-    "nodemw": "^0.18.1"
+    "nodemw": "^0.18.1",
+    "npmlog": "^7.0.1"
   }
 }
