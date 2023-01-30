@@ -2,11 +2,13 @@
   "villages": [
     {
       "name": "Towns of the Faroe Islands",
+      "description": "Wikimedia list article",
       "ipa": null,
       "geo": null
     },
     {
       "name": "Æðuvík",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": "ˈɛavʊvʊik",
       "geo": {
         "latitude": 62.069722222222,
@@ -16,6 +18,7 @@
     },
     {
       "name": "Akrar",
+      "description": "settlement on Suduroy, Faroe Islands",
       "ipa": null,
       "geo": {
         "latitude": 61.455555555556,
@@ -25,6 +28,7 @@
     },
     {
       "name": "Ánirnar",
+      "description": "settlement on Borðoy, Faroe Islands",
       "ipa": "ˈɔanɪɹ",
       "geo": {
         "latitude": 62.256388888889,
@@ -34,6 +38,7 @@
     },
     {
       "name": "Argir",
+      "description": "settlement on Streymoy, Faroe Islands",
       "ipa": "ˈaɹʤɪɹ",
       "geo": {
         "latitude": 61.996666666667,
@@ -43,6 +48,7 @@
     },
     {
       "name": "Árnafjørður",
+      "description": "settlement on Borðoy, Faroe Islands",
       "ipa": "ˈɔɹnaˌfjøːɹʊɹ",
       "geo": {
         "latitude": 62.255833333333,
@@ -52,6 +58,7 @@
     },
     {
       "name": "Bøur",
+      "description": "settlement on Vágar, Faroe Islands",
       "ipa": "ˈbøvʊɹ",
       "geo": {
         "latitude": 62.090833333333,
@@ -61,6 +68,7 @@
     },
     {
       "name": "Dalur",
+      "description": "settlement on Sandoy, Faroe Islands",
       "ipa": "ˈdɛalʊr",
       "geo": {
         "latitude": 61.782222222222,
@@ -70,6 +78,7 @@
     },
     {
       "name": "Depil",
+      "description": "human settlement",
       "ipa": "deːpɪl",
       "geo": {
         "latitude": 62.286111111111,
@@ -79,6 +88,7 @@
     },
     {
       "name": "Dímun",
+      "description": "village in Faroe Islands, Kingdom of Denmark",
       "ipa": null,
       "geo": {
         "latitude": 61.6848,
@@ -88,6 +98,7 @@
     },
     {
       "name": "Elduvík",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": "ˈɛldʊvʊik",
       "geo": {
         "latitude": 62.282222222222,
@@ -97,6 +108,7 @@
     },
     {
       "name": "Fámjin",
+      "description": "settlement on Suduroy, Faroe Islands",
       "ipa": "ˈfɔmjɪn",
       "geo": {
         "latitude": 61.526388888889,
@@ -106,6 +118,7 @@
     },
     {
       "name": "Froðba",
+      "description": "settlement on Suduroy, Faroe Islands",
       "ipa": "ˈfɹoːba",
       "geo": {
         "latitude": 61.548055555556,
@@ -115,6 +128,7 @@
     },
     {
       "name": "Fuglafjørður",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": "ˈfʊglaˌfjøːɹʊɹ",
       "geo": {
         "latitude": 62.244444444444,
@@ -124,6 +138,7 @@
     },
     {
       "name": "Funningsfjørður",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": "ˈfʊnːɪŋgsˌfjøːɹʊɹ",
       "geo": {
         "latitude": 62.238055555556,
@@ -133,6 +148,7 @@
     },
     {
       "name": "Funningur",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": "ˈfʊnːɪŋgʊɹ",
       "geo": {
         "latitude": 62.287777777778,
@@ -142,6 +158,7 @@
     },
     {
       "name": "Gásadalur",
+      "description": "settlement on Vágar, Faroe Islands",
       "ipa": "ˈgɔaːsaˌdɛaːlʊɹ",
       "geo": {
         "latitude": 62.112222222222,
@@ -151,6 +168,7 @@
     },
     {
       "name": "Gjógv",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": "ʤɛgv",
       "geo": {
         "latitude": 62.325,
@@ -160,6 +178,7 @@
     },
     {
       "name": "Glyvrar",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": "ˈgliːvɹaɹ",
       "geo": {
         "latitude": 62.131388888889,
@@ -169,6 +188,7 @@
     },
     {
       "name": "Gøtueiði",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": "gøtʊˌaijɪ",
       "geo": {
         "latitude": 62.175,
@@ -178,6 +198,7 @@
     },
     {
       "name": "Gøtugjógv",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": "ˈgøtʊʤɛgv",
       "geo": {
         "latitude": 62.190277777778,
@@ -187,6 +208,7 @@
     },
     {
       "name": "Haldórsvík",
+      "description": "settlement on Streymoy, Faroe Islands",
       "ipa": "ˈhaldœɻʂˌvʊik",
       "geo": {
         "latitude": 62.275833333333,
@@ -196,6 +218,7 @@
     },
     {
       "name": "Haraldssund",
+      "description": "human settlement",
       "ipa": null,
       "geo": {
         "latitude": 62.272222222222,
@@ -205,6 +228,7 @@
     },
     {
       "name": "Hattarvík",
+      "description": "settlement on Fugloy, Faroe Islands",
       "ipa": "ˈhatːaɹvʊik",
       "geo": {
         "latitude": 62.330833333333,
@@ -214,6 +238,7 @@
     },
     {
       "name": "Hellurnar",
+      "description": "human settlement",
       "ipa": "ˈhɛdlʊɹ",
       "geo": {
         "latitude": 62.263611111111,
@@ -223,6 +248,7 @@
     },
     {
       "name": "Hestur",
+      "description": "island of the Faroe Islands",
       "ipa": "ˈhɛstʊr",
       "geo": {
         "latitude": 61.9544,
@@ -232,6 +258,7 @@
     },
     {
       "name": "Hestur, Hestur",
+      "description": "village in Faroe Islands, Kingdom of Denmark",
       "ipa": null,
       "geo": {
         "latitude": 61.9575,
@@ -241,6 +268,7 @@
     },
     {
       "name": "Hósvík",
+      "description": "settlement on Streymoy, Faroe Islands",
       "ipa": "ˈhɔusvʊik",
       "geo": {
         "latitude": 62.154722222222,
@@ -250,6 +278,7 @@
     },
     {
       "name": "Hov, Faroe Islands",
+      "description": "settlement on Suduroy, Faroe Islands",
       "ipa": "ˈhoː",
       "geo": {
         "latitude": 61.5066,
@@ -259,6 +288,7 @@
     },
     {
       "name": "Hoyvík",
+      "description": "settlement on Streymoy, Faroe Islands",
       "ipa": "ˈhɔivʊɪk",
       "geo": {
         "latitude": 62.025555555556,
@@ -268,6 +298,7 @@
     },
     {
       "name": "Húsar",
+      "description": "settlement on Kalsoy, Faroe Islands",
       "ipa": "ˈhʉusaɹ",
       "geo": {
         "latitude": 62.265,
@@ -277,6 +308,7 @@
     },
     {
       "name": "Húsavík, Faroe Islands",
+      "description": "settlement on Sandoy, Faroe Islands",
       "ipa": "ˈhʉusavʊik",
       "geo": {
         "latitude": 61.810555555556,
@@ -286,6 +318,7 @@
     },
     {
       "name": "Hvalba",
+      "description": "settlement on Suduroy, Faroe Islands",
       "ipa": "'kvalba",
       "geo": {
         "latitude": 61.601944444444,
@@ -295,6 +328,7 @@
     },
     {
       "name": "Hvalvík",
+      "description": "settlement on Streymoy, Faroe Islands",
       "ipa": "ˈkvalvʊik",
       "geo": {
         "latitude": 62.1865,
@@ -304,6 +338,7 @@
     },
     {
       "name": "Hvannasund",
+      "description": "settlement on Viðoy, Faroe Islands",
       "ipa": "ˈkvanːasʊnd",
       "geo": {
         "latitude": 62.295277777778,
@@ -313,6 +348,7 @@
     },
     {
       "name": "Hvítanes",
+      "description": "settlement on Streymoy, Faroe Islands",
       "ipa": "ˈkvʊitaneːs",
       "geo": {
         "latitude": 62.046666666667,
@@ -322,6 +358,7 @@
     },
     {
       "name": "Innan Glyvur",
+      "description": "human settlement",
       "ipa": "ˌɪnːan ˈgliːvʊɹ",
       "geo": {
         "latitude": 62.139166666667,
@@ -331,6 +368,7 @@
     },
     {
       "name": "Kaldbak",
+      "description": "settlement on Streymoy, Faroe Islands",
       "ipa": "ˈkalːbak",
       "geo": {
         "latitude": 62.063055555556,
@@ -340,6 +378,7 @@
     },
     {
       "name": "Kaldbaksbotnur",
+      "description": "human settlement",
       "ipa": "ˈkalːbaksˌbɔtnʊɹ",
       "geo": {
         "latitude": 62.066111111111,
@@ -349,6 +388,7 @@
     },
     {
       "name": "Kambsdalur",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": null,
       "geo": {
         "latitude": 62.2213,
@@ -358,6 +398,7 @@
     },
     {
       "name": "Kirkja",
+      "description": "settlement on Fugloy, Faroe Islands",
       "ipa": "ˈtʃʰɪɻtʃʰa",
       "geo": {
         "latitude": 62.316666666667,
@@ -367,6 +408,7 @@
     },
     {
       "name": "Kirkjubøur",
+      "description": "settlement on Streymoy, Faroe Islands",
       "ipa": "ˈtʃɪʃʊˌbøːʊr",
       "geo": {
         "latitude": 61.95583,
@@ -376,6 +418,7 @@
     },
     {
       "name": "Klaksvík",
+      "description": "settlement on Borðoy, Faroe Islands",
       "ipa": "ˈklakːsvʊik",
       "geo": {
         "latitude": 62.223888888889,
@@ -385,6 +428,7 @@
     },
     {
       "name": "Kolbeinagjógv",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": "ˈkɔlbainadʒɛgv",
       "geo": {
         "latitude": 62.1,
@@ -394,6 +438,7 @@
     },
     {
       "name": "Kollafjørður",
+      "description": "settlement on Streymoy, Faroe Islands",
       "ipa": "ˈkɔtlaˌfjøːɹʊɹ",
       "geo": {
         "latitude": 62.118333333333,
@@ -403,6 +448,7 @@
     },
     {
       "name": "Koltur",
+      "description": "island of the Faroe Islands",
       "ipa": "ˈkɔltʊr",
       "geo": {
         "latitude": 61.9891,
@@ -412,6 +458,7 @@
     },
     {
       "name": "Koltur, Koltur",
+      "description": "settlement on Koltur, Faroe Islands",
       "ipa": null,
       "geo": {
         "latitude": 61.985,
@@ -421,6 +468,7 @@
     },
     {
       "name": "Kunoy (village)",
+      "description": "settlement on Kunoy, Faroe Islands",
       "ipa": "ˈkuːnɪ",
       "geo": {
         "latitude": 62.293611111111,
@@ -430,6 +478,7 @@
     },
     {
       "name": "Kvívík",
+      "description": "settlement on Streymoy, Faroe Islands",
       "ipa": "ˈkʰvʊivʊik",
       "geo": {
         "latitude": 62.120555555556,
@@ -439,6 +488,7 @@
     },
     {
       "name": "Lamba (Faroe Islands)",
+      "description": "human settlement",
       "ipa": null,
       "geo": {
         "latitude": 62.14222,
@@ -448,6 +498,7 @@
     },
     {
       "name": "Lambareiði",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": "ˈlambaɹˌaijɪ",
       "geo": {
         "latitude": 62.133333333333,
@@ -457,6 +508,7 @@
     },
     {
       "name": "Langasandur",
+      "description": "settlement on Streymoy, Faroe Islands",
       "ipa": null,
       "geo": {
         "latitude": 62.237222222222,
@@ -466,6 +518,7 @@
     },
     {
       "name": "Leirvík",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": "/ˈlɔɹvʊik/",
       "geo": {
         "latitude": 62.211111111111,
@@ -475,6 +528,7 @@
     },
     {
       "name": "Leynar",
+      "description": "settlement on Streymoy, Faroe Islands",
       "ipa": "ˈlɛiːnaɹ",
       "geo": {
         "latitude": 62.116666666667,
@@ -484,6 +538,7 @@
     },
     {
       "name": "Lopra",
+      "description": "settlement on Suduroy, Faroe Islands",
       "ipa": null,
       "geo": {
         "latitude": 61.442777777778,
@@ -493,6 +548,7 @@
     },
     {
       "name": "Miðvágur",
+      "description": "village in the Faroe Islands",
       "ipa": "ˈmiːvɔavuɹ",
       "geo": {
         "latitude": 62.051111111111,
@@ -502,6 +558,7 @@
     },
     {
       "name": "Mikladalur",
+      "description": "human settlement",
       "ipa": null,
       "geo": {
         "latitude": 62.335,
@@ -511,6 +568,7 @@
     },
     {
       "name": "Morskranes",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": "ˈmɔskɹaneːs",
       "geo": {
         "latitude": 62.133333333333,
@@ -520,6 +578,7 @@
     },
     {
       "name": "Múli",
+      "description": "settlement on Borðoy, Faroe Islands",
       "ipa": "ˈmʉulɪ",
       "geo": {
         "latitude": 62.35,
@@ -529,6 +588,7 @@
     },
     {
       "name": "Mykines, Mykines",
+      "description": "settlement on Mykines, Faroe Islands",
       "ipa": null,
       "geo": {
         "latitude": 62.10416667,
@@ -538,6 +598,7 @@
     },
     {
       "name": "Nes, Eysturoy",
+      "description": "village in Eysturoy, Faroe Islands",
       "ipa": "neːs",
       "geo": {
         "latitude": 62.082,
@@ -547,6 +608,7 @@
     },
     {
       "name": "Nes, Vágur",
+      "description": "settlement on Suduroy, Faroe Islands",
       "ipa": "neːs",
       "geo": {
         "latitude": 61.4722,
@@ -556,6 +618,7 @@
     },
     {
       "name": "Nesvík",
+      "description": "settlement on Streymoy, Faroe Islands",
       "ipa": "ˈneːsvʊik",
       "geo": {
         "latitude": 62.216666666667,
@@ -565,6 +628,7 @@
     },
     {
       "name": "Nólsoy",
+      "description": "island in central Faroe Islands",
       "ipa": "ˈnœlsɔi",
       "geo": {
         "latitude": 61.9846,
@@ -574,6 +638,7 @@
     },
     {
       "name": "Norðdepil",
+      "description": "settlement on Borðoy, Faroe Islands",
       "ipa": "ˈnoːɹˌdeːpɪl",
       "geo": {
         "latitude": 62.3,
@@ -583,6 +648,7 @@
     },
     {
       "name": "Norðoyri",
+      "description": "settlement on Borðoy, Faroe Islands",
       "ipa": "ˈnoːɹɔiɹɪ",
       "geo": {
         "latitude": 62.21666667,
@@ -592,6 +658,7 @@
     },
     {
       "name": "Norðradalur",
+      "description": "settlement on Streymoy, Faroe Islands",
       "ipa": "ˈnoːɹaˌdɛalʊɹ",
       "geo": {
         "latitude": 62.041,
@@ -601,6 +668,7 @@
     },
     {
       "name": "Norðragøta",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": "ˈnoːɹaˌgøːta",
       "geo": {
         "latitude": 62.200833333333,
@@ -610,6 +678,7 @@
     },
     {
       "name": "Norðskáli",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": "ˈnoːɹˌskɔaːlɪ",
       "geo": {
         "latitude": 62.213055555556,
@@ -619,6 +688,7 @@
     },
     {
       "name": "Norðtoftir",
+      "description": "settlement on Borðoy, Faroe Islands",
       "ipa": "ˈnoːɹˌtɔftɪɹ",
       "geo": {
         "latitude": 62.275,
@@ -628,6 +698,7 @@
     },
     {
       "name": "Øravík",
+      "description": "settlement on Suduroy, Faroe Islands",
       "ipa": "ˈøːɹavʊik",
       "geo": {
         "latitude": 61.536111111111,
@@ -637,6 +708,7 @@
     },
     {
       "name": "Øravíkarlíð",
+      "description": "settlement on Suduroy, Faroe Islands",
       "ipa": "ˈøːɹaˌvʊikaɹlʊi",
       "geo": {
         "latitude": 61.550555555556,
@@ -646,6 +718,7 @@
     },
     {
       "name": "Oyndarfjørður",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": "ˈɔindaɹˌfjøːɹʊɹ",
       "geo": {
         "latitude": 62.276388888889,
@@ -655,6 +728,7 @@
     },
     {
       "name": "Oyrarbakki",
+      "description": "human settlement",
       "ipa": "ˈɔiɹaɹˌbaʰtʃɪ",
       "geo": {
         "latitude": 62.2,
@@ -664,6 +738,7 @@
     },
     {
       "name": "Oyrareingir",
+      "description": "settlement on Streymoy, Faroe Islands",
       "ipa": "ˈɔiɹaɹˌɔnʤɪɹ",
       "geo": {
         "latitude": 62.105277777778,
@@ -673,6 +748,7 @@
     },
     {
       "name": "Oyri",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": "ˈɔiɹɪ",
       "geo": {
         "latitude": 62.191666666667,
@@ -682,6 +758,7 @@
     },
     {
       "name": "Porkeri",
+      "description": "settlement on Suduroy, Faroe Islands",
       "ipa": "ˈpɔɻtʃʰɹɪ",
       "geo": {
         "latitude": 61.483055555556,
@@ -691,6 +768,7 @@
     },
     {
       "name": "Rituvík",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": "ˈɹiːtʊvʊik",
       "geo": {
         "latitude": 62.109166666667,
@@ -700,6 +778,7 @@
     },
     {
       "name": "Runavík",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": "ˈɹuːnavʊik",
       "geo": {
         "latitude": 62.109444444444,
@@ -709,6 +788,7 @@
     },
     {
       "name": "Saksun",
+      "description": "human settlement",
       "ipa": "ˈsaksʊn",
       "geo": {
         "latitude": 62.248888888889,
@@ -718,6 +798,7 @@
     },
     {
       "name": "Saltangará",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": "ˈsaltaŋgaɹɔa",
       "geo": {
         "latitude": 62.116666666667,
@@ -727,6 +808,7 @@
     },
     {
       "name": "Saltnes, Faroe Islands",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": "ˈsaltneːs",
       "geo": {
         "latitude": 62.1084,
@@ -736,6 +818,7 @@
     },
     {
       "name": "Sandavágur",
+      "description": "settlement on Vágar, Faroe Islands",
       "ipa": "ˈsandaˌvɔavʊɹ",
       "geo": {
         "latitude": 62.056666666667,
@@ -745,6 +828,7 @@
     },
     {
       "name": "Sandur, Faroe Islands",
+      "description": "settlement on Sandoy, Faroe Islands",
       "ipa": null,
       "geo": {
         "latitude": 61.833611111111,
@@ -754,6 +838,7 @@
     },
     {
       "name": "Sandvík",
+      "description": "settlement on Suduroy, Faroe Islands",
       "ipa": "ˈsanvʊik",
       "geo": {
         "latitude": 61.637777777778,
@@ -763,6 +848,7 @@
     },
     {
       "name": "Selatrað",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": "ˈseːlatɹɛa",
       "geo": {
         "latitude": 62.1585,
@@ -772,6 +858,7 @@
     },
     {
       "name": "Signabøur",
+      "description": "settlement on Streymoy, Faroe Islands",
       "ipa": "ˈsɪgnaˌbøːvʊɹ",
       "geo": {
         "latitude": 62.085555555556,
@@ -781,6 +868,7 @@
     },
     {
       "name": "Skælingur",
+      "description": "settlement on Streymoy, Faroe Islands",
       "ipa": "ˈskɛaːlɪŋgʊɹ",
       "geo": {
         "latitude": 62.1,
@@ -790,6 +878,7 @@
     },
     {
       "name": "Skálafjørður (village)",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": "ˈskɔalaˌbɔtnʊɹ",
       "geo": {
         "latitude": 62.2,
@@ -799,6 +888,7 @@
     },
     {
       "name": "Skálavík",
+      "description": "settlement on Sandoy, Faroe Islands",
       "ipa": "ˈskɔalavʊik",
       "geo": {
         "latitude": 61.833333333333,
@@ -808,6 +898,7 @@
     },
     {
       "name": "Skála",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": "ˈskɔala",
       "geo": {
         "latitude": 62.159722222222,
@@ -817,6 +908,7 @@
     },
     {
       "name": "Skarvanes",
+      "description": "settlement on Sandoy, Faroe Islands",
       "ipa": "ˈskaɹvaneːs",
       "geo": {
         "latitude": 61.793055555556,
@@ -826,6 +918,7 @@
     },
     {
       "name": "Skipanes",
+      "description": "human settlement",
       "ipa": "ˈʃiːpaneːs",
       "geo": {
         "latitude": 62.173611111111,
@@ -835,6 +928,7 @@
     },
     {
       "name": "Skopun",
+      "description": "settlement on Sandoy, Faroe Islands",
       "ipa": "ˈskoːpʊn",
       "geo": {
         "latitude": 61.912447222222,
@@ -844,6 +938,7 @@
     },
     {
       "name": "Skúvoy, Skúvoy",
+      "description": "settlement on Skúvoy, Faroe Islands",
       "ipa": "ˈskʉuvɔi",
       "geo": {
         "latitude": 61.766666666667,
@@ -853,6 +948,7 @@
     },
     {
       "name": "Søldarfjørður",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": "ˈsœldaɹˌfjøːɹʊɹ",
       "geo": {
         "latitude": 62.158611111111,
@@ -862,6 +958,7 @@
     },
     {
       "name": "Sørvágur",
+      "description": "village on the island of Vágar in the Faroe Islands",
       "ipa": "ˈsœrvɔavʊr",
       "geo": {
         "latitude": 62.070277777778,
@@ -871,6 +968,7 @@
     },
     {
       "name": "Stóra Dímun",
+      "description": "island of the Faroe Islands",
       "ipa": "ˈstɔuɹa ˈdʊimʊn",
       "geo": {
         "latitude": 61.6937,
@@ -880,6 +978,7 @@
     },
     {
       "name": "Strendur",
+      "description": "human settlement",
       "ipa": null,
       "geo": {
         "latitude": 62.107,
@@ -889,6 +988,7 @@
     },
     {
       "name": "Streymnes",
+      "description": "settlement on Streymoy, Faroe Islands",
       "ipa": "ˈstɹɛmneːs",
       "geo": {
         "latitude": 62.19138888888889,
@@ -898,6 +998,7 @@
     },
     {
       "name": "Stykkið",
+      "description": "settlement on Streymoy, Faroe Islands",
       "ipa": "ˈstɪʰʧɪ",
       "geo": {
         "latitude": 62.11611111111111,
@@ -907,6 +1008,7 @@
     },
     {
       "name": "Sumba, Faroe Islands",
+      "description": "village in the Faroe Islands",
       "ipa": null,
       "geo": {
         "latitude": 61.404166666667,
@@ -916,6 +1018,7 @@
     },
     {
       "name": "Sund, Faroe Islands",
+      "description": "settlement on Streymoy, Faroe Islands",
       "ipa": null,
       "geo": {
         "latitude": 62.04861111,
@@ -925,6 +1028,7 @@
     },
     {
       "name": "Svínoy, Svínoy",
+      "description": "human settlement",
       "ipa": "ˈsvʊinɪ",
       "geo": {
         "latitude": 62.279722222222,
@@ -934,6 +1038,7 @@
     },
     {
       "name": "Syðradalur, Streymoy Island",
+      "description": "settlement on Streymoy, Faroe Islands",
       "ipa": "ˈsiːɹaˌdɛalʊɹ",
       "geo": {
         "latitude": 62.01833333,
@@ -943,6 +1048,7 @@
     },
     {
       "name": "Syðradalur",
+      "description": "settlement on Kalsoy, Faroe Islands",
       "ipa": "ˈsiːɹaˌdɛalʊɹ",
       "geo": {
         "latitude": 62.24527778,
@@ -952,6 +1058,7 @@
     },
     {
       "name": "Syðrugøta",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": "ˈsiːɹʊˌgøːta",
       "geo": {
         "latitude": 62.186,
@@ -961,6 +1068,7 @@
     },
     {
       "name": "Tjørnuvík",
+      "description": "settlement on Streymoy, Faroe Islands",
       "ipa": "ˈtʃʰœdnʊvʊik",
       "geo": {
         "latitude": 62.29,
@@ -970,6 +1078,7 @@
     },
     {
       "name": "Toftir",
+      "description": "settlement on Eysturoy, Faroe Islands",
       "ipa": null,
       "geo": {
         "latitude": 62.0925,
@@ -979,6 +1088,7 @@
     },
     {
       "name": "Tórshavn",
+      "description": "capital of the Faroe Islands",
       "ipa": "ɔuː",
       "geo": {
         "latitude": 62,
@@ -988,6 +1098,7 @@
     },
     {
       "name": "Trøllanes",
+      "description": "human settlement",
       "ipa": "ˈtɹœdlaneːs",
       "geo": {
         "latitude": 62.361111111111,
@@ -997,6 +1108,7 @@
     },
     {
       "name": "Trongisvágur",
+      "description": "settlement on Suduroy, Faroe Islands",
       "ipa": "ˈøːɹavʊik",
       "geo": {
         "latitude": 61.563888888889,
@@ -1006,6 +1118,7 @@
     },
     {
       "name": "Tvøroyri",
+      "description": "human settlement",
       "ipa": "ˈtvøːɹɔiɹɪ",
       "geo": {
         "latitude": 61.555833333333,
@@ -1015,6 +1128,7 @@
     },
     {
       "name": "Vágur",
+      "description": "settlement on Suduroy, Faroe Islands",
       "ipa": "ˈvɔavʊɹ",
       "geo": {
         "latitude": 61.473055555556,
@@ -1024,6 +1138,7 @@
     },
     {
       "name": "Válur",
+      "description": "human settlement",
       "ipa": "ˈvɔalʊɹ",
       "geo": {
         "latitude": 62.15,
@@ -1033,6 +1148,7 @@
     },
     {
       "name": "Vatnsoyrar",
+      "description": "settlement on Vágar, Faroe Islands",
       "ipa": "vatnsɔiɹaɹ",
       "geo": {
         "latitude": 62.074166666667,
@@ -1042,6 +1158,7 @@
     },
     {
       "name": "Velbastaður",
+      "description": "settlement on Streymoy, Faroe Islands",
       "ipa": "ˈvɛlbaˌstɛavʊɹ",
       "geo": {
         "latitude": 61.984722222222,
@@ -1051,6 +1168,7 @@
     },
     {
       "name": "Vestmanna",
+      "description": "settlement on Streymoy, Faroe Islands",
       "ipa": null,
       "geo": {
         "latitude": 62.156388888889,
@@ -1060,6 +1178,7 @@
     },
     {
       "name": "Viðareiði",
+      "description": "human settlement",
       "ipa": "ˈviːjaɹˌaijɪ",
       "geo": {
         "latitude": 62.3601,
