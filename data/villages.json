@@ -3,12 +3,14 @@
     {
       "name": "Towns of the Faroe Islands",
       "description": "Wikimedia list article",
+      "name_origin": null,
       "ipa": null,
       "geo": null
     },
     {
       "name": "Æðuvík",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": "Det første leddet i stedsnavnet Æðuvík kommer av [[færøysk]] ''æða'', [[ærfugl]].<ref name=\"Weyhe\" />",
       "ipa": "ˈɛavʊvʊik",
       "geo": {
         "latitude": 62.069722222222,
@@ -19,6 +21,7 @@
     {
       "name": "Akrar",
       "description": "settlement on Suduroy, Faroe Islands",
+      "name_origin": "Stedsnavnet Akrar eller Agrar kommer av [[norrønt (språk)|norrønt]] ''øgr'', «liten vik», i flertallsform. ",
       "ipa": null,
       "geo": {
         "latitude": 61.455555555556,
@@ -29,6 +32,7 @@
     {
       "name": "Ánirnar",
       "description": "settlement on Borðoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈɔanɪɹ",
       "geo": {
         "latitude": 62.256388888889,
@@ -39,6 +43,7 @@
     {
       "name": "Argir",
       "description": "settlement on Streymoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈaɹʤɪɹ",
       "geo": {
         "latitude": 61.996666666667,
@@ -49,6 +54,7 @@
     {
       "name": "Árnafjørður",
       "description": "settlement on Borðoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈɔɹnaˌfjøːɹʊɹ",
       "geo": {
         "latitude": 62.255833333333,
@@ -59,6 +65,7 @@
     {
       "name": "Bøur",
       "description": "settlement on Vágar, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈbøvʊɹ",
       "geo": {
         "latitude": 62.090833333333,
@@ -69,6 +76,7 @@
     {
       "name": "Dalur",
       "description": "settlement on Sandoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈdɛalʊr",
       "geo": {
         "latitude": 61.782222222222,
@@ -79,6 +87,7 @@
     {
       "name": "Depil",
       "description": "human settlement",
+      "name_origin": "Depil er første gang nevnt i [[jordebok]]en i 1584.   Den moderne færøyske betydningen av ''depil'' er «sentrum» eller «møtested», slik som ''depill'' på [[islandsk]]. Stedsnavnet har imidlertid [[norrønt språk|oldnordisk]] opphav, ''depill'', som betyr noe i nærheten av «vassdrag». Lignende betydning finnes i stedsnavn på [[Shetland]], slik som Loch of Winyadepla. ",
       "ipa": "deːpɪl",
       "geo": {
         "latitude": 62.286111111111,
@@ -89,6 +98,7 @@
     {
       "name": "Dímun",
       "description": "village in Faroe Islands, Kingdom of Denmark",
+      "name_origin": null,
       "ipa": null,
       "geo": {
         "latitude": 61.6848,
@@ -99,6 +109,7 @@
     {
       "name": "Elduvík",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": "'''Elduvík''' ({{IPA2|ˈɛldʊvʊik}}, [[dansk]]: ''Eldevig'') er en bygd på [[Færøyene]], og ligger ved [[Funningsfjørður (fjord)|Funningsfjørður]] på [[Eysturoy]] med utsikt mot [[Kalsoy]]. Elduvík er første gang nevnt i [[Hundebrevet]] fra slutten av [[1300-tallet]], men kan være eldre.  Elduvík var administrasjonssentrum i [[Elduvíkar kommuna]], som dessuten omfattet den jevnt over større nabobygda [[Funningsfjørður]], fra [[1948]] til [[2005]], og ble da innlemmet i [[Runavíkar kommuna]]. [[1. januar]] [[2009]] hadde Elduvík 27 innbyggere, mot 44 i [[1985]]. ",
       "ipa": "ˈɛldʊvʊik",
       "geo": {
         "latitude": 62.282222222222,
@@ -109,6 +120,7 @@
     {
       "name": "Fámjin",
       "description": "settlement on Suduroy, Faroe Islands",
+      "name_origin": "Bygdenavnet kan komme fra [[gammelengelsk]] ''fámig'' eller ''foamy'', som i færøysk ''fómur'', «skum», som sannsynligvis viser til at hele viken tidvis er fylt med skum fra brenningene. Fámjin er første gang nevnt skriftlig i [[Hundebrevet]] fra siste halvdel av 1300-tallet.  Fámjin er sannsynligvis en utflytterbygd fra [[Hov (Færøyene)|Hov]]. ",
       "ipa": "ˈfɔmjɪn",
       "geo": {
         "latitude": 61.526388888889,
@@ -119,6 +131,7 @@
     {
       "name": "Froðba",
       "description": "settlement on Suduroy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈfɹoːba",
       "geo": {
         "latitude": 61.548055555556,
@@ -129,6 +142,7 @@
     {
       "name": "Fuglafjørður",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈfʊglaˌfjøːɹʊɹ",
       "geo": {
         "latitude": 62.244444444444,
@@ -139,6 +153,7 @@
     {
       "name": "Funningsfjørður",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈfʊnːɪŋgsˌfjøːɹʊɹ",
       "geo": {
         "latitude": 62.238055555556,
@@ -149,6 +164,7 @@
     {
       "name": "Funningur",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": "Selv om det ikke nevnes i ''[[Færøyingesaga]]'', inngår det i sagntradisjonen at Færøyenes første [[landnåm]]smann, [[Grímur Kamban]], slo seg ned ved Funningur.  Bygda er første gang nevnt skriftlig som ''Funding'' i 1584, og regnes ikke som en landnåmsbygd av historikere og arkeologer.  Fra gammelt av består Funningur av tre grender.  Bygdenavnet var nok opprinnelig navnet på fjorden.  Navnet er beslektet med moderne skandinavisk «å finne», i en eldre betydning «å søke mot».",
       "ipa": "ˈfʊnːɪŋgʊɹ",
       "geo": {
         "latitude": 62.287777777778,
@@ -159,6 +175,7 @@
     {
       "name": "Gásadalur",
       "description": "settlement on Vágar, Faroe Islands",
+      "name_origin": "Gásadalur er første gang nevnt i [[Hundabrævið]] fra slutten av [[1300-tallet]], men kan være eldre.  Gásadalur sies å ha navnet sitt fra en kvinne ved navn Gæsa, som ifølge sagnet var den som grunnla bygda. Hun var en rik kvinne som bodde i [[Kirkjubøur]] i det [[12. århundre]]. Hun eide halve hovedøya [[Streymoy]], men mistet alle sine eiendommer til kirken da det ble avdekket at hun hadde spist kjøtt i [[faste]]n. Etter dette flyttet hun altså til Vágar og Gásadalur. Et mer sannsynlig opphav til navnet er de mange [[gjess|villgjessene]] som oppholder seg i Gásadalur om sommeren.",
       "ipa": "ˈgɔaːsaˌdɛaːlʊɹ",
       "geo": {
         "latitude": 62.112222222222,
@@ -169,6 +186,7 @@
     {
       "name": "Gjógv",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": "Gjógv er første gang nevnt som ''Norður við Gjógv'', og er eldre enn 1584, men er ikke nevnt i hverken [[Hundebrevet]], [[Fårebrevet]] eller [[Færøyingesaga]].  Bygda er yngre enn [[Funningur]], som heller ikke regnes som en [[landnåm]]sbygd.",
       "ipa": "ʤɛgv",
       "geo": {
         "latitude": 62.325,
@@ -179,6 +197,7 @@
     {
       "name": "Glyvrar",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": "'''Glyvrar''' ({{IPA2|ˈgliːvɹaɹ}}, [[dansk]]: ''Glibre'') er en bygd på [[Færøyene]]. Den ligger ved [[Skálafjørður]] på [[Eysturoy]], og er en del av [[Runavíkar kommuna]]. Glyvrar er første gang nevnt i [[1584]].  Fra [[1903]] til [[1928]] lå det en navigatørskole på Glyvrar, og uteksaminerte elever herfra ble oftest skippere på fiskefartøyer. Kirken på Glyvrar ble bygd i [[1927]], og gjennomgikk en omfattende restaurering i [[1981]]. [[1. januar]] [[2009]] hadde Glyvrar 392 innbyggere, mot 410 i [[1985]]. ",
       "ipa": "ˈgliːvɹaɹ",
       "geo": {
         "latitude": 62.131388888889,
@@ -189,6 +208,7 @@
     {
       "name": "Gøtueiði",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": "'''Gøtueiði''' ({{IPA2|gøtʊˌaijɪ}}, [[dansk]]: ''Gøteejde'') er en bygd på [[Færøyene]]. Den ligger ved [[eid (landform)|eidet]] mellom [[Skálafjørður]] og [[Gøtuvík]] på [[Eysturoy]], derav navnet. Bygda har vokst sammen med [[Skipanes]]. Gøtueiði er en del av [[Eysturkommuna]]. Bygda ble grunnlagt i [[1850]]. I [[1980-årene]] var det en del religiøse teltsamlinger i bygda. [[1. januar]] [[2009]] hadde Gøtueiði 35 innbyggere, mot 46 i [[1985]]. ",
       "ipa": "gøtʊˌaijɪ",
       "geo": {
         "latitude": 62.175,
@@ -199,6 +219,7 @@
     {
       "name": "Gøtugjógv",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈgøtʊʤɛgv",
       "geo": {
         "latitude": 62.190277777778,
@@ -209,6 +230,7 @@
     {
       "name": "Haldórsvík",
       "description": "settlement on Streymoy, Faroe Islands",
+      "name_origin": "Det første leddet i stedsnavnet kommer av mannsnavnet Haldór eller Halldór. Stedsnavneutvalget godkjente i 1960 skriveformen ''Haldarsvík'', som i 2011 ble endret til Haldórsvík.  ",
       "ipa": "ˈhaldœɻʂˌvʊik",
       "geo": {
         "latitude": 62.275833333333,
@@ -219,6 +241,7 @@
     {
       "name": "Haraldssund",
       "description": "human settlement",
+      "name_origin": null,
       "ipa": null,
       "geo": {
         "latitude": 62.272222222222,
@@ -229,6 +252,7 @@
     {
       "name": "Hattarvík",
       "description": "settlement on Fugloy, Faroe Islands",
+      "name_origin": "Bygdenavnet kommer av fjellnavnet Hattur, fra norrønt ''hǫttr'', «hatt». ",
       "ipa": "ˈhatːaɹvʊik",
       "geo": {
         "latitude": 62.330833333333,
@@ -239,6 +263,7 @@
     {
       "name": "Hellurnar",
       "description": "human settlement",
+      "name_origin": null,
       "ipa": "ˈhɛdlʊɹ",
       "geo": {
         "latitude": 62.263611111111,
@@ -249,6 +274,7 @@
     {
       "name": "Hestur",
       "description": "island of the Faroe Islands",
+      "name_origin": "Hestur er en av de minste av Færøyene. Dens avlange og smale form kan minne om en [[hester]]ygg, derav navnet. Øya er ganske bratt på østkysten, men er flat på toppen. Her finner man fire mindre innsjøer i den sørlige enden, som Fagradalsvatn and Hálsvatn, samt de to høyeste toppene på øya, Eggjarók og Múlin (begge 421 moh.) mer midtveis på vestkysten. Hele vestkysten består av høye klipper, som er bosted for mye sjøfugl, heriblant en stor [[lomvi]]koloni. Fuglefjellene er værslitte, og på [[1800-tallet]] forekom det store ras flere steder på øya. Hesturs sørspiss heter Hælur («Hælen»), og her finner man et [[fyrtårn]].",
       "ipa": "ˈhɛstʊr",
       "geo": {
         "latitude": 61.9544,
@@ -259,6 +285,7 @@
     {
       "name": "Hestur, Hestur",
       "description": "village in Faroe Islands, Kingdom of Denmark",
+      "name_origin": null,
       "ipa": null,
       "geo": {
         "latitude": 61.9575,
@@ -269,6 +296,7 @@
     {
       "name": "Hósvík",
       "description": "settlement on Streymoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈhɔusvʊik",
       "geo": {
         "latitude": 62.154722222222,
@@ -279,6 +307,7 @@
     {
       "name": "Hov, Faroe Islands",
       "description": "settlement on Suduroy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈhoː",
       "geo": {
         "latitude": 61.5066,
@@ -289,6 +318,7 @@
     {
       "name": "Hoyvík",
       "description": "settlement on Streymoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈhɔivʊɪk",
       "geo": {
         "latitude": 62.025555555556,
@@ -299,6 +329,7 @@
     {
       "name": "Húsar",
       "description": "settlement on Kalsoy, Faroe Islands",
+      "name_origin": "'''Húsar''' ({{IPA2|ˈhʉusaɹ}}, [[dansk]]: ''Husum'') er en bygd på øya [[Kalsoy]], en av [[Færøyene]]. Húsar ligger i [[Klaksvíkar kommuna]], tidligere [[Húsa kommuna]]. Bygda Húsar ligger på østkysten av øya, og er første gang nevnt i [[Hundebrevet]] fra slutten av [[1300-tallet]], og er slik den eldste bygda på øya.  Dagens steinkirke ble reist i [[1920]]. Tre ganger daglig anløper en liten bilferge som forbinder Húsar med regionssenteret [[Klaksvík]] på [[Borðoy]]. [[1. januar]] [[2009]] hadde Húsar 49 innbyggere, mot 38 i [[1985]]. ",
       "ipa": "ˈhʉusaɹ",
       "geo": {
         "latitude": 62.265,
@@ -309,6 +340,7 @@
     {
       "name": "Húsavík, Faroe Islands",
       "description": "settlement on Sandoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈhʉusavʊik",
       "geo": {
         "latitude": 61.810555555556,
@@ -319,6 +351,7 @@
     {
       "name": "Hvalba",
       "description": "settlement on Suduroy, Faroe Islands",
+      "name_origin": "Navnet er sammensatt av [[norrønt (språk)|norrønt]] ''hvalr'', «[[hval]]», og ''bœr'', «bø». Opprinnelsen gjenspeiles i den arkaiske, danske skrivemåten ''Kvalbø''. Hvalba ble sannsynligvis grunnlagt i [[landnåm]]stiden etter år 825, som en av Færøyenes eldste bygder.  Arkeologiske utgravninger av norrøne bosetninger og det [[topografi]]ske navnet indikerer det samme.  Den opprinnelige bosetningen i Hvalba ligger på [[innmark]]en i grenden Skálar (dansk: ''Skålum''), som også er bygdens første kirkested. ",
       "ipa": "'kvalba",
       "geo": {
         "latitude": 61.601944444444,
@@ -329,6 +362,7 @@
     {
       "name": "Hvalvík",
       "description": "settlement on Streymoy, Faroe Islands",
+      "name_origin": "'''Hvalvík''' ({{IPA2|ˈkvalvʊik}}, [[dansk]]: ''Kvalvig'') er en bygd på øya [[Streymoy]], en av [[Færøyene]]. Hvalvík ligger i enden av en dal på østsiden av øya, adskilt fra nabobygda [[Streymnes]] med elva Stórá. Stedet har lange [[hvalfangst]]tradisjoner, og er første gang nevnt i [[Hundebrevet]] fra slutten av [[1300-tallet]].  Hvalvík var senter i [[Hvalvíkar kommuna]] inntil [[2005]], da denne ble innlemmet i [[Sunda kommuna]]. [[1. januar]] [[2009]] hadde Hvalvík 222 innbyggere, mot 195 i [[1985]]. ",
       "ipa": "ˈkvalvʊik",
       "geo": {
         "latitude": 62.1865,
@@ -339,6 +373,7 @@
     {
       "name": "Hvannasund",
       "description": "settlement on Viðoy, Faroe Islands",
+      "name_origin": "Første ledd i navnet Hvannasund kommer fra plantenavnet [[kvann]], på færøysk ''hvonn'' (uttales som ''kvånn'').  Hvannasund er første gang nevnt skriftlig i [[jordebok]]en fra 1584.  Norðdepil på den andre siden av sundet er en yngre bygd, og ble [[niðursetubygdir|nybygget]] i 1866 av en utflytter fra Hvannasund, som åpnet handelsforretning der. ",
       "ipa": "ˈkvanːasʊnd",
       "geo": {
         "latitude": 62.295277777778,
@@ -349,6 +384,7 @@
     {
       "name": "Hvítanes",
       "description": "settlement on Streymoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈkvʊitaneːs",
       "geo": {
         "latitude": 62.046666666667,
@@ -359,6 +395,7 @@
     {
       "name": "Innan Glyvur",
       "description": "human settlement",
+      "name_origin": "Bygdenavnet kommer av to bygdeallmenninger for [[Strendur]]. Allmenningene er avgrenset av bekkefarene Stóra og Lítla Glyvur.  Innan Glyvur ble først bosatt i 1884 som en [[niðursetubygdir|utflytterbygd]] fra [[Skála]]. ",
       "ipa": "ˌɪnːan ˈgliːvʊɹ",
       "geo": {
         "latitude": 62.139166666667,
@@ -369,6 +406,7 @@
     {
       "name": "Kaldbak",
       "description": "settlement on Streymoy, Faroe Islands",
+      "name_origin": "Bygdenavnet kommer av beliggenheten ved fjellet Kaldbakur (nå Kaldbakskambur).  Arkeologiske funn viser at stedet har vært bebodd siden 1000-tallet.  Den eldste skriftlige kilden som nevner Kaldbak, er [[jordebok]]en i 1584, da [[Tummas Símunarson]] forpaktet et gårdsbruk her.  ",
       "ipa": "ˈkalːbak",
       "geo": {
         "latitude": 62.063055555556,
@@ -379,6 +417,7 @@
     {
       "name": "Kaldbaksbotnur",
       "description": "human settlement",
+      "name_origin": null,
       "ipa": "ˈkalːbaksˌbɔtnʊɹ",
       "geo": {
         "latitude": 62.066111111111,
@@ -389,6 +428,7 @@
     {
       "name": "Kambsdalur",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": null,
       "ipa": null,
       "geo": {
         "latitude": 62.2213,
@@ -399,6 +439,7 @@
     {
       "name": "Kirkja",
       "description": "settlement on Fugloy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈtʃʰɪɻtʃʰa",
       "geo": {
         "latitude": 62.316666666667,
@@ -409,6 +450,7 @@
     {
       "name": "Kirkjubøur",
       "description": "settlement on Streymoy, Faroe Islands",
+      "name_origin": "Mellom de to nevnte fjellene, Kirkjubøambur og Kirkjubøreyn, går en vandringssti til [[Argir]], som i dag er hovedstaden Tórshavns sydligste bydel. En annen vandringssti går rundt Kirkjubøreyn, i nordlig retning. Dette området er for færøyinger et forholdsvis lavtliggende område, og derfor er vandringsrutene her lette og populære å gå. En vei forbinder Kirkjubøur med Velbastaður og Tórshavn. Fra Tórshavn sentrum til Kirkjubøur er det 12&nbsp;km, en strekning som trafikkeres av både buss og syklister.",
       "ipa": "ˈtʃɪʃʊˌbøːʊr",
       "geo": {
         "latitude": 61.95583,
@@ -419,6 +461,7 @@
     {
       "name": "Klaksvík",
       "description": "settlement on Borðoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈklakːsvʊik",
       "geo": {
         "latitude": 62.223888888889,
@@ -429,6 +472,7 @@
     {
       "name": "Kolbeinagjógv",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈkɔlbainadʒɛgv",
       "geo": {
         "latitude": 62.1,
@@ -439,6 +483,7 @@
     {
       "name": "Kollafjørður",
       "description": "settlement on Streymoy, Faroe Islands",
+      "name_origin": "Kollafjørður er første gang nevnt skriftlig i [[jordebok]]en fra 1584. ",
       "ipa": "ˈkɔtlaˌfjøːɹʊɹ",
       "geo": {
         "latitude": 62.118333333333,
@@ -449,6 +494,7 @@
     {
       "name": "Koltur",
       "description": "island of the Faroe Islands",
+      "name_origin": "Opphavet til øyas navn er det sådd tvil rundt, men det er to fremtredende teorier. Den første går ut på at Kolturshamar har gitt navn til øya, via det [[norrønt språk|norrøne]] ordet ''koltr'', som betyr «fjellhammer». Den andre teorien går ut på at navnet er et tidlig [[lånord]] fra det [[engelsk]]e ''colt'' (fra norrønt ''koltr''), som betyr «[[føll]]» og dermed svarer til naboøya Hestur («Hest») i sør. Opphavet fra ''koltr'' er dermed akseptert, men ikke betydningen av det.",
       "ipa": "ˈkɔltʊr",
       "geo": {
         "latitude": 61.9891,
@@ -459,6 +505,7 @@
     {
       "name": "Koltur, Koltur",
       "description": "settlement on Koltur, Faroe Islands",
+      "name_origin": null,
       "ipa": null,
       "geo": {
         "latitude": 61.985,
@@ -469,6 +516,7 @@
     {
       "name": "Kunoy (village)",
       "description": "settlement on Kunoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈkuːnɪ",
       "geo": {
         "latitude": 62.293611111111,
@@ -479,6 +527,7 @@
     {
       "name": "Kvívík",
       "description": "settlement on Streymoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈkʰvʊivʊik",
       "geo": {
         "latitude": 62.120555555556,
@@ -489,6 +538,7 @@
     {
       "name": "Lamba (Faroe Islands)",
       "description": "human settlement",
+      "name_origin": null,
       "ipa": null,
       "geo": {
         "latitude": 62.14222,
@@ -499,6 +549,7 @@
     {
       "name": "Lambareiði",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈlambaɹˌaijɪ",
       "geo": {
         "latitude": 62.133333333333,
@@ -509,6 +560,7 @@
     {
       "name": "Langasandur",
       "description": "settlement on Streymoy, Faroe Islands",
+      "name_origin": null,
       "ipa": null,
       "geo": {
         "latitude": 62.237222222222,
@@ -519,6 +571,7 @@
     {
       "name": "Leirvík",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "/ˈlɔɹvʊik/",
       "geo": {
         "latitude": 62.211111111111,
@@ -529,6 +582,7 @@
     {
       "name": "Leynar",
       "description": "settlement on Streymoy, Faroe Islands",
+      "name_origin": "Leynar er første gang nevnt skriftlig som ''Lønnhafne'' i [[jordebok]]en fra 1584. <ref name=\"Guttesen\">{{Kilde artikkel|forfatter=Guttesen, Rolf|år=1992|tittel=New Geographical and Historical Information from Lucas Janz Waghenaer's Faroe-chart|publikasjon=Geografisk Tidsskrift|bind=92|nummer=1|side=22–28|doi=10.1080/00167223.1992.10649311|språk=engelsk}}</ref> Stedsnavnet kommer antagelig fra norrønt ''Launhafn'', «lun havn». Den naturlige havnen i Leynar skal ha blitt sandet til, slik den fremstår i dag, under «kyndelsmessestormen» i andre halvdel av 1600-tallet.<ref name=\"Guttesen\" />",
       "ipa": "ˈlɛiːnaɹ",
       "geo": {
         "latitude": 62.116666666667,
@@ -539,6 +593,7 @@
     {
       "name": "Lopra",
       "description": "settlement on Suduroy, Faroe Islands",
+      "name_origin": null,
       "ipa": null,
       "geo": {
         "latitude": 61.442777777778,
@@ -549,6 +604,7 @@
     {
       "name": "Miðvágur",
       "description": "village in the Faroe Islands",
+      "name_origin": "Antageligvis var Miðvágur, fra [[vikingtiden]], et av Færøyenes opprinnelige tingsteder. Miðvágur er imidlertid første gang nevnt i [[Hundebrevet]] fra slutten av [[1300-tallet]], men ting tyder altså på at stedet er eldre.  I [[1899]] gjorde Færøyene sin største [[grindhval|grindfangst]] noensinne, med 1 300 individer i Miðvágur.",
       "ipa": "ˈmiːvɔavuɹ",
       "geo": {
         "latitude": 62.051111111111,
@@ -559,6 +615,7 @@
     {
       "name": "Mikladalur",
       "description": "human settlement",
+      "name_origin": "Stedsnavnet er sammensatt av [[norrønt (språk)|norrønt]] ''mikill'', «stor», og ''dal''. Mikladalur er første gang nevnt i [[Hundebrevet]] fra siste halvdel av 1300-tallet.  Stedsnavn antyder at Mikladalur har vært et kirkested siden middelalderen.  Kirken er første gang nevnt i tingboken i 1646 og 1709. Den nåværende [[Mikladals kirkja]] ble reist i 1859, vesentlig ombygd i 1915 og utbedret i 2012. <ref name=\"visit\">{{Kilde www|url=http://www.visitkalsoy.fo/mikladalur.html|tittel=Mikladalur|utgiver=Visit Kalsoy|besøksdato=23. august 2016|språk=færøysk}}</ref>",
       "ipa": null,
       "geo": {
         "latitude": 62.335,
@@ -569,6 +626,7 @@
     {
       "name": "Morskranes",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈmɔskɹaneːs",
       "geo": {
         "latitude": 62.133333333333,
@@ -579,6 +637,7 @@
     {
       "name": "Múli",
       "description": "settlement on Borðoy, Faroe Islands",
+      "name_origin": "Múli er første gang nevnt skriftlig i [[Hundebrevet]] fra siste halvdel av 1300-tallet.  Den mest kjente beboeren er Guttormur í Múla (1657–1739), som sies å ha hatt [[synskhet|synske]] og [[magi]]ske evner. I 1970 ble Múli den siste bygden på Færøyene som fikk tilgang til elektrisitet.<ref name=\"Muli\">{{Kilde www|url=http://www.faroeislands.dk/pages/Dk/MuliIndex.htm|tittel=Múli|utgiver=faroeislands.dk|språk=dansk, engelsk og italiensk|besøksdato=12. mars 2016}}</ref> Noen år senere fikk bygden en 8 km lang veiforbindelse til [[Norðdepil]] i sør. Bygden har vært ansett som fraflyttet siden 2002. Husene blir brukt som ferieboliger i av tidligere beboere og deres slektninger. Husene i Múli fikk gateadresser i 2007. ",
       "ipa": "ˈmʉulɪ",
       "geo": {
         "latitude": 62.35,
@@ -589,6 +648,7 @@
     {
       "name": "Mykines, Mykines",
       "description": "settlement on Mykines, Faroe Islands",
+      "name_origin": null,
       "ipa": null,
       "geo": {
         "latitude": 62.10416667,
@@ -599,6 +659,7 @@
     {
       "name": "Nes, Eysturoy",
       "description": "village in Eysturoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "neːs",
       "geo": {
         "latitude": 62.082,
@@ -609,6 +670,7 @@
     {
       "name": "Nes, Vágur",
       "description": "settlement on Suduroy, Faroe Islands",
+      "name_origin": null,
       "ipa": "neːs",
       "geo": {
         "latitude": 61.4722,
@@ -619,6 +681,7 @@
     {
       "name": "Nesvík",
       "description": "settlement on Streymoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈneːsvʊik",
       "geo": {
         "latitude": 62.216666666667,
@@ -629,6 +692,7 @@
     {
       "name": "Nólsoy",
       "description": "island in central Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈnœlsɔi",
       "geo": {
         "latitude": 61.9846,
@@ -639,6 +703,7 @@
     {
       "name": "Norðdepil",
       "description": "settlement on Borðoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈnoːɹˌdeːpɪl",
       "geo": {
         "latitude": 62.3,
@@ -649,6 +714,7 @@
     {
       "name": "Norðoyri",
       "description": "settlement on Borðoy, Faroe Islands",
+      "name_origin": "'''Norðoyri''' ({{IPA2|ˈnoːɹɔiɹɪ}}, [[dansk]]: ''Nordøre''), ofte kalt '''Oyri''', er en bygd på [[Færøyene]]. Bygden ligger på østsiden av [[Borðoyarvík]], like sør for byen [[Klaksvík]]. Norðoyri er også en del av kommunen og sognet [[Klaksvíkar kommuna|Klaksvík]]. Nærheten har medført folketallsvekst i bygden, som voks fra 15 innbyggere i 1985 til 104 i 2015.<ref name=\"Hagstova\" /> Bygden er første gang nevnt skriftlig i 1584.  2 km sør for Norðoyri er det gjort arkeologiske utgravninger av hustufter fra [[vikingtiden på Færøyene|vikingtiden]]. ",
       "ipa": "ˈnoːɹɔiɹɪ",
       "geo": {
         "latitude": 62.21666667,
@@ -659,6 +725,7 @@
     {
       "name": "Norðradalur",
       "description": "settlement on Streymoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈnoːɹaˌdɛalʊɹ",
       "geo": {
         "latitude": 62.041,
@@ -669,6 +736,7 @@
     {
       "name": "Norðragøta",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": "Stedsnavnet betyr «gate», i betydningen «ferdselsåre», jamfør [[Nordagutu]] i Telemark.  Norðagøta er fortsatt et viktig trafikknutepunkt med veiforbindelse til [[Leirvík]] og [[Fuglafjørður]] i nord og til bygdene langs [[Skálafjørður]] i sør.",
       "ipa": "ˈnoːɹaˌgøːta",
       "geo": {
         "latitude": 62.200833333333,
@@ -679,6 +747,7 @@
     {
       "name": "Norðskáli",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": "'''Norðskáli''' ({{IPA2|ˈnoːɹˌskɔaːlɪ}}, [[dansk]]: ''Nordskåle''), eller '''Norðskála''', er en bygd på [[Færøyene]]. Den ligger på [[Eysturoy]], like ved der hvor avstanden over til [[Streymoy]] er kortest, og ligger i [[Sunda kommuna]]. Norðskáli er nevnt første gang i [[1584]].  Til tross for sin alder, består bebyggelsen i Norðskáli stort sett av nyere hus. I [[1976]] sluttførte man en bro over til Streymoy. I etterkant av dette har nabobygda [[Oyrarbakki]] fått særlig tilvekst. [[1. januar]] [[2009]] hadde Norðskáli 299 innbyggere, mot i 186 i [[1985]]. ",
       "ipa": "ˈnoːɹˌskɔaːlɪ",
       "geo": {
         "latitude": 62.213055555556,
@@ -689,6 +758,7 @@
     {
       "name": "Norðtoftir",
       "description": "settlement on Borðoy, Faroe Islands",
+      "name_origin": "Bygda er første gang nevnt skriftlig i [[1584]].  Forfatteren [[Herman Bang]] oppholdt seg av og til i bygda, og skrev flere av sine verker der.",
       "ipa": "ˈnoːɹˌtɔftɪɹ",
       "geo": {
         "latitude": 62.275,
@@ -699,6 +769,7 @@
     {
       "name": "Øravík",
       "description": "settlement on Suduroy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈøːɹavʊik",
       "geo": {
         "latitude": 61.536111111111,
@@ -709,6 +780,7 @@
     {
       "name": "Øravíkarlíð",
       "description": "settlement on Suduroy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈøːɹaˌvʊikaɹlʊi",
       "geo": {
         "latitude": 61.550555555556,
@@ -719,6 +791,7 @@
     {
       "name": "Oyndarfjørður",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈɔindaɹˌfjøːɹʊɹ",
       "geo": {
         "latitude": 62.276388888889,
@@ -729,6 +802,7 @@
     {
       "name": "Oyrarbakki",
       "description": "human settlement",
+      "name_origin": null,
       "ipa": "ˈɔiɹaɹˌbaʰtʃɪ",
       "geo": {
         "latitude": 62.2,
@@ -739,6 +813,7 @@
     {
       "name": "Oyrareingir",
       "description": "settlement on Streymoy, Faroe Islands",
+      "name_origin": "'''Oyrareingir''' er en bygd på [[Færøyene]]. Den ligger innerst i [[Kollafjørður (fjord)|Kollafjørður]] på [[Streymoy]], og lå inntil [[1. januar]] [[2001]] i [[Kollafjarðar kommuna]], da denne ble innlemmet i [[Tórshavnar kommuna]]. Oyrareingir er første gang nevnt i [[1584]].  1. januar [[2009]] hadde Oyrareingir 45 innbyggere, mot 15 i [[1985]]. ",
       "ipa": "ˈɔiɹaɹˌɔnʤɪɹ",
       "geo": {
         "latitude": 62.105277777778,
@@ -749,6 +824,7 @@
     {
       "name": "Oyri",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": "Bygdenavnet Oyri er beskrivende for stedet, ettersom det ligger på en [[øyr]].",
       "ipa": "ˈɔiɹɪ",
       "geo": {
         "latitude": 62.191666666667,
@@ -759,6 +835,7 @@
     {
       "name": "Porkeri",
       "description": "settlement on Suduroy, Faroe Islands",
+      "name_origin": "Et sagn forteller at den første bosatte seg i området, fant små [[knokkel|knokler]] av griseføtter, ''purkur'', i jorden, som han reiste et steingjerde rundt. Knoklene skal ha stammet fra griseholdet til [[vikingtiden|vikinghøvdingen]] Hovgrímur i Hov på stedet. Navnet ''Purkurgerði'', «purkegjerde», skal ha blitt forvansket til ''Porkeri''.<ref name=\"Kommunan\" /> Porkeri er første gang nevnt skriftlig i ''[[Hundebrevet|Hundabrævið]]'' fra 1300-tallet.  [[Arkeologi]]ske funn antyder at stedet har vært bebodd av [[keltere|keltiske]] eller [[norrøn]]e folk siden 1000-tallet.",
       "ipa": "ˈpɔɻtʃʰɹɪ",
       "geo": {
         "latitude": 61.483055555556,
@@ -769,6 +846,7 @@
     {
       "name": "Rituvík",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": "Det første leddet i stedsnavnet Rituvík kommer av [[færøysk]] ''rita'', [[krykkje]].<ref name=\"Weyhe\" />",
       "ipa": "ˈɹiːtʊvʊik",
       "geo": {
         "latitude": 62.109166666667,
@@ -779,6 +857,7 @@
     {
       "name": "Runavík",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": "Runavík er den yngste bebyggelsen ved Skálafjørður, og ble grunnlagt av nybyggeren Hans Tausen i [[1916]], men fikk ikke navnet Runavík før i [[1938]]. I [[1967]] ble Runavíkar kommuna utskilt fra [[Nes kommuna]]. I [[2005]] ble [[Elduvíkar kommuna]], [[Oyndarfjarðar kommuna]] og [[Skála kommuna]] innlemmet i kommunen, og senere også [[Funnings kommuna]] i 2009.",
       "ipa": "ˈɹuːnavʊik",
       "geo": {
         "latitude": 62.109444444444,
@@ -789,6 +868,7 @@
     {
       "name": "Saksun",
       "description": "human settlement",
+      "name_origin": "Saksun er første gang nevnt skriftlig i omkring år 1400.  Bygden er blant de som hevdes å ha blitt utryddet av [[svartedauden]]. Sagn forteller om en enslig kvinne som overlevde pesten, og krevde rett på all jord i Saksun på det påfølgende vårtinget i [[Kollafjørður]], og fikk medhold. ",
       "ipa": "ˈsaksʊn",
       "geo": {
         "latitude": 62.248888888889,
@@ -799,6 +879,7 @@
     {
       "name": "Saltangará",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": "Denne utmarken med lynghei har vært kalt Heiðarnar. Dette navnet lever videre på folkemunne. Bygda fikk allerede på 1800-tallet navnet Saltangará. Det kan være avledet av et gammelt fjordnavn fra [[norrønt (språk)|norrønt]] ''angr'', som i [[Stavanger]] og [[Hardanger]], eller være en forvanskning av ''Salthandara'', det vil si bortenfor [[Saltnes (Færøyene)|Saltnes]].<ref name=\"Weyhe\" />",
       "ipa": "ˈsaltaŋgaɹɔa",
       "geo": {
         "latitude": 62.116666666667,
@@ -809,6 +890,7 @@
     {
       "name": "Saltnes, Faroe Islands",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈsaltneːs",
       "geo": {
         "latitude": 62.1084,
@@ -819,6 +901,7 @@
     {
       "name": "Sandavágur",
       "description": "settlement on Vágar, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈsandaˌvɔavʊɹ",
       "geo": {
         "latitude": 62.056666666667,
@@ -829,6 +912,7 @@
     {
       "name": "Sandur, Faroe Islands",
       "description": "settlement on Sandoy, Faroe Islands",
+      "name_origin": null,
       "ipa": null,
       "geo": {
         "latitude": 61.833611111111,
@@ -839,6 +923,7 @@
     {
       "name": "Sandvík",
       "description": "settlement on Suduroy, Faroe Islands",
+      "name_origin": "Sandvík er første gang nevnt skriftlig så tidlig som i ''[[Færøyingesaga]]en''<ref name=\"Heimabeiti\">[http://heimabeiti.fo/default.asp?menu=152 Heimabeiti]   {{Wayback|url=http://heimabeiti.fo/default.asp?menu=152 |date=20150715224410 }}</ref>, da som stedet hvor [[Sigmundur Brestisson]] i [[1005]] reddet seg i land og deretter ble drept av den lokale bonden [[Tórgrímur illi]]. I 1349 døde samtlige av bygdas innbyggere som følge av [[svartedauden]]. Stedet ble først bosatt igjen i 1811, og hadde da navnet Hvalvík. I 1911 ble imidlertid navnet endret tilbake til det opprinnelige Sandvík, da bygdefolket hadde sett seg lei av at posten deres stadig ble forvekslet med den som skulle til [[Hvalvík]] på [[Streymoy]].",
       "ipa": "ˈsanvʊik",
       "geo": {
         "latitude": 61.637777777778,
@@ -849,6 +934,7 @@
     {
       "name": "Selatrað",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": "Stedsnavnet Selatrað er sammensatt av norrønt ''selr'', «[[seler]]» og ''látr'', «yngleplass».<ref name=\"Brandt\">{{Kilde bok|forfatter=Brandt, Don |år=2006 |tittel=Mere om Færøernes frimærker og historie| bind=1 |utgivelsessted=Tórshavn |utgiver=Postverk Føroya |isbn=99918-3-190-8 |språk=dansk |url=http://www.faroestamps.fo/download/stamps_i_danmark-22.pdf |side=37 |url-status=død |arkivurl=https://web.archive.org/web/20070809004109/http://www.faroestamps.fo/download/stamps_i_danmark-22.pdf |arkivdato=9. august 2007 }}</ref> Selatrað er en gammel jordbruksbygd som nevnes for første gang i skriftlige kilder i [[Hundebrevet]] fra siste halvdel av 1300-tallet.  Bebyggelsen på Selatrað er mer spredt enn hva som er vanlig i færøyske bygder, som ofte har mye til felles med vestnorske [[klyngetun]]. Under Færøyenes gamle rettslig-politiske ordning var Selatrað sete for vårtinget på Eysturoy.<ref name=\"Brandt\" />  Lokalhistorikeren [[Andreas Weihe]] sørget for å samle inn og utgi i bokform en del kulturhistorisk materiale fra Selatrað, som sagn og ordspråk. ",
       "ipa": "ˈseːlatɹɛa",
       "geo": {
         "latitude": 62.1585,
@@ -859,6 +945,7 @@
     {
       "name": "Signabøur",
       "description": "settlement on Streymoy, Faroe Islands",
+      "name_origin": "'''Signabøur''' ({{IPA2|ˈsɪgnaˌbøːvʊɹ}}, [[dansk]]: ''Signebø'') er en bygd på [[Færøyene]]. Den ligger i enden av [[Kollafjørður (fjord)|Kollafjørður]] på [[Streymoy]], og er en del av [[Tórshavnar kommuna]]. Signabøur er første gang nevnt i [[1584]].  Fra [[1903]] til [[1920]] var det en [[hvalfangst]]stasjon på stedet. [[1. januar]] [[2009]] hadde Signabøur 142 innbyggere, mot 28 i [[1985]]. ",
       "ipa": "ˈsɪgnaˌbøːvʊɹ",
       "geo": {
         "latitude": 62.085555555556,
@@ -869,6 +956,7 @@
     {
       "name": "Skælingur",
       "description": "settlement on Streymoy, Faroe Islands",
+      "name_origin": "Skælingur er første gang nevnt skriftlig i jordeboken fra 1584. ",
       "ipa": "ˈskɛaːlɪŋgʊɹ",
       "geo": {
         "latitude": 62.1,
@@ -879,6 +967,7 @@
     {
       "name": "Skálafjørður (village)",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈskɔalaˌbɔtnʊɹ",
       "geo": {
         "latitude": 62.2,
@@ -889,6 +978,7 @@
     {
       "name": "Skálavík",
       "description": "settlement on Sandoy, Faroe Islands",
+      "name_origin": "Skálavík er første gang nevnt i skriftlige kilder i [[Hundebrevet]] fra siste halvdel av 1300-tallet.  Den regnes som den eldste bygda på østkysten av Sandoy, mens Sandur er den eldste på hele øya.  [[liste over Færøyenes lagmenn|Lagmann]] [[Jákup Jógvansson]] bodde på Dalsgarður i Skálavík, fra gammelt av en stor [[kongsbonde|kongsgård]] på Færøyene.  ",
       "ipa": "ˈskɔalavʊik",
       "geo": {
         "latitude": 61.833333333333,
@@ -899,6 +989,7 @@
     {
       "name": "Skála",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈskɔala",
       "geo": {
         "latitude": 62.159722222222,
@@ -909,6 +1000,7 @@
     {
       "name": "Skarvanes",
       "description": "settlement on Sandoy, Faroe Islands",
+      "name_origin": "'''Skarvanes''' ({{IPA2|ˈskaɹvaneːs}}, [[dansk]]: ''Skarvanæs'') er en bygd på [[Sandoy]], en av [[Færøyene]]. Skarvanes ligger i [[Húsavíkar kommuna]]. [[1. januar]] [[2010]] hadde Skarvanes 6 innbyggere, mot 7 i [[1985]].  Bygda er første gang nevnt skriftlig i [[1404]].  Bygda var en av de beste plassene for korndyrking i øyriket, men fraflytningen har tatt til.",
       "ipa": "ˈskaɹvaneːs",
       "geo": {
         "latitude": 61.793055555556,
@@ -919,6 +1011,7 @@
     {
       "name": "Skipanes",
       "description": "human settlement",
+      "name_origin": null,
       "ipa": "ˈʃiːpaneːs",
       "geo": {
         "latitude": 62.173611111111,
@@ -929,6 +1022,7 @@
     {
       "name": "Skopun",
       "description": "settlement on Sandoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈskoːpʊn",
       "geo": {
         "latitude": 61.912447222222,
@@ -939,6 +1033,7 @@
     {
       "name": "Skúvoy, Skúvoy",
       "description": "settlement on Skúvoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈskʉuvɔi",
       "geo": {
         "latitude": 61.766666666667,
@@ -949,6 +1044,7 @@
     {
       "name": "Søldarfjørður",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈsœldaɹˌfjøːɹʊɹ",
       "geo": {
         "latitude": 62.158611111111,
@@ -959,6 +1055,7 @@
     {
       "name": "Sørvágur",
       "description": "village on the island of Vágar in the Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈsœrvɔavʊr",
       "geo": {
         "latitude": 62.070277777778,
@@ -969,6 +1066,7 @@
     {
       "name": "Stóra Dímun",
       "description": "island of the Faroe Islands",
+      "name_origin": "Stóra Dímun har vært bebodd siden [[landnåm]]et og er nevnt i ''[[Færøyingesaga]]''. Øya har godt jordsmonn og rike sjøfuglkolonier, som ved siden av saue- og storfehold danner næringsgrunnlaget for gården. Øyfolket holder også ender, gjess og hester, og de garver egne skinnvarer.  Øya hører historisk og kulturelt sammen med den alltid ubebodde [[Lítla Dímun]] i sør. Administrativt og kirkelig hører Stóra Dímun til kommunen og sognet [[Skúvoyar kommuna|Skúvoy]], mens Lítla Dímun hører til [[Hvalbiar kommuna|Hvalba]] på [[Suðuroy]].",
       "ipa": "ˈstɔuɹa ˈdʊimʊn",
       "geo": {
         "latitude": 61.6937,
@@ -979,6 +1077,7 @@
     {
       "name": "Strendur",
       "description": "human settlement",
+      "name_origin": "Bygdenavnet betyr «strender» på færøysk. Bygden er første gang nevnt i skriftlige kilder fra rundt år 1400.  Den er en tradisjonell bonde- og fiskerbygd.",
       "ipa": null,
       "geo": {
         "latitude": 62.107,
@@ -989,6 +1088,7 @@
     {
       "name": "Streymnes",
       "description": "settlement on Streymoy, Faroe Islands",
+      "name_origin": "'''Streymnes''' ({{IPA2|ˈstɹɛmneːs}}, [[dansk]]: ''Strømnæs'') er en bygd på [[Færøyene]], og er en del av [[Sunda kommuna]]. Bygda ligger i Saksunardalur på [[Streymoy]]s østkyst, rett nord for [[Hvalvík]]. Det er ingen andre bygder i dalen bortsett fra [[Saksun]] i helt motsatt ende. Streymnes er første gang nevnt i [[1584]].  [[Norge|Nordmenn]] bygde Færøyenes første hvalfangststasjon på Gjánoyri ved Streymnes i [[1893]], og denne var i drift inntil [[1927]]. [[1. januar]] [[2009]] hadde Streymnes 211 innbyggere, mot 165 i [[1985]]. ",
       "ipa": "ˈstɹɛmneːs",
       "geo": {
         "latitude": 62.19138888888889,
@@ -999,6 +1099,7 @@
     {
       "name": "Stykkið",
       "description": "settlement on Streymoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈstɪʰʧɪ",
       "geo": {
         "latitude": 62.11611111111111,
@@ -1009,6 +1110,7 @@
     {
       "name": "Sumba, Faroe Islands",
       "description": "village in the Faroe Islands",
+      "name_origin": null,
       "ipa": null,
       "geo": {
         "latitude": 61.404166666667,
@@ -1019,6 +1121,7 @@
     {
       "name": "Sund, Faroe Islands",
       "description": "settlement on Streymoy, Faroe Islands",
+      "name_origin": null,
       "ipa": null,
       "geo": {
         "latitude": 62.04861111,
@@ -1029,6 +1132,7 @@
     {
       "name": "Svínoy, Svínoy",
       "description": "human settlement",
+      "name_origin": null,
       "ipa": "ˈsvʊinɪ",
       "geo": {
         "latitude": 62.279722222222,
@@ -1039,6 +1143,7 @@
     {
       "name": "Syðradalur, Streymoy Island",
       "description": "settlement on Streymoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈsiːɹaˌdɛalʊɹ",
       "geo": {
         "latitude": 62.01833333,
@@ -1049,6 +1154,7 @@
     {
       "name": "Syðradalur",
       "description": "settlement on Kalsoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈsiːɹaˌdɛalʊɹ",
       "geo": {
         "latitude": 62.24527778,
@@ -1059,6 +1165,7 @@
     {
       "name": "Syðrugøta",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": "Arkeologiske utgravninger viser at Syðrugøta har vært bosatt siden vikingtiden. Stedsnavnet kommer av «gate» og viser til at ferdselsveien mellom bygdene ved [[Skálafjørður]] og bygdene i nordøst passerte her. Det usikkert om Norðragøta eller Syðrugøta er den eldste bosetningen, men siden navnet Gøta pleier å vise til Norðragøta, regnes den som høvdingesetet for [[Tróndur í Gøtu]], som nevnes i [[Færøyingesaga]]. Syðrugøta er første gang nevnt skriftlig i en [[jordebok]] fra 1584.  Opprinnelig bestod Syðrugøta av to grender, Niðri við Hús og Úti í Grógv.",
       "ipa": "ˈsiːɹʊˌgøːta",
       "geo": {
         "latitude": 62.186,
@@ -1069,6 +1176,7 @@
     {
       "name": "Tjørnuvík",
       "description": "settlement on Streymoy, Faroe Islands",
+      "name_origin": null,
       "ipa": "ˈtʃʰœdnʊvʊik",
       "geo": {
         "latitude": 62.29,
@@ -1079,6 +1187,7 @@
     {
       "name": "Toftir",
       "description": "settlement on Eysturoy, Faroe Islands",
+      "name_origin": "Toftir har vært bebygd i hvert fall siden [[middelalderen]]. Stedet er første gang nevnt i lensregnskapene for [[Bergenhus len]] fra 1566/1567. Stedsnavnet har samme rot som «hustufter», men kan ha hatt en bredere betydning om et bosted i eldre færøysk, og ikke nødvendigvis vise til [[ødegård]]er. ",
       "ipa": null,
       "geo": {
         "latitude": 62.0925,
@@ -1089,6 +1198,7 @@
     {
       "name": "Tórshavn",
       "description": "capital of the Faroe Islands",
+      "name_origin": "Nest største næringsvei på Færøyene er turismen. Det kan nevnes især to hoteller i Tórshavn, [[Hotel Føroyar]] og [[Hotel Hafnia (Tórshavn)|Hotel Hafnia]], hvor sistnevnte ligger midt i byen. Det finnes dessuten også noen mindre hoteller i byen, samt en campingplass.",
       "ipa": "ɔuː",
       "geo": {
         "latitude": 62,
@@ -1099,6 +1209,7 @@
     {
       "name": "Trøllanes",
       "description": "human settlement",
+      "name_origin": "Trøllanes er første gang nevnt i jordeboken i 1584.  Første ledd i stedsnavnet betyr «[[troll]]». Et sagn forteller at troll inntok bygden hver [[helligtrekongersaften]], men at en gammel kone en gang påkalte [[Jesus]], og trollene forsvant for godt.",
       "ipa": "ˈtɹœdlaneːs",
       "geo": {
         "latitude": 62.361111111111,
@@ -1109,6 +1220,7 @@
     {
       "name": "Trongisvágur",
       "description": "settlement on Suduroy, Faroe Islands",
+      "name_origin": "Bygden ligger ved utløpet av Stórá, innerst i Trongisvágsfjørður. Fra Trongisvágur er det veiforbindelse til [[Hvalba]] i nord og [[Ørðavík]] i sør. Trongisvágur er en gammel jordbruksbygd, første gang nevnt skriftlig i 1584.  Tvøroyri vokste derimot frem som et handelssted på 1800-tallet. I den første halvdelen av 1900-tallet var Trongisvágur åsted for [[gruvedrift på Færøyene|kullutvinning]]. Kullet fikk meget stor betydning under [[Færøyene under første verdenskrig|første]] og [[Færøyene under andre verdenskrig|andre verdenskrig]]. ",
       "ipa": "ˈøːɹavʊik",
       "geo": {
         "latitude": 61.563888888889,
@@ -1119,6 +1231,7 @@
     {
       "name": "Tvøroyri",
       "description": "human settlement",
+      "name_origin": null,
       "ipa": "ˈtvøːɹɔiɹɪ",
       "geo": {
         "latitude": 61.555833333333,
@@ -1129,6 +1242,7 @@
     {
       "name": "Vágur",
       "description": "settlement on Suduroy, Faroe Islands",
+      "name_origin": "Det er veiforbindelse fra Vágur til bygden [[Porkeri]], lengre øst på nordsiden av fjorden, og videre til [[Hov (Færøyene)|Hov]]. Veien fortsetter til bygdene lengre nord på øya via en veitunnel. På veien til Porkeri ligger bygden [[Nes (Suðuroy)|Nes]], som statistisk og administrativt regnes til Vágur. I nordvestlig retning fra Vágur går det en fjellvei til gården i Fámara og [[Botnur kraftverk|kraftverket i Botnur]]. Sørover langs Vágsfjørður er Vágur forbundet med bygdene [[Lopra]], [[Akrar]] og [[Sumba]], sistnevnte via en [[Sumbiartunnilin|veitunnel]] åpnet i 1997.",
       "ipa": "ˈvɔavʊɹ",
       "geo": {
         "latitude": 61.473055555556,
@@ -1139,6 +1253,7 @@
     {
       "name": "Válur",
       "description": "human settlement",
+      "name_origin": null,
       "ipa": "ˈvɔalʊɹ",
       "geo": {
         "latitude": 62.15,
@@ -1149,6 +1264,7 @@
     {
       "name": "Vatnsoyrar",
       "description": "settlement on Vágar, Faroe Islands",
+      "name_origin": null,
       "ipa": "vatnsɔiɹaɹ",
       "geo": {
         "latitude": 62.074166666667,
@@ -1159,6 +1275,7 @@
     {
       "name": "Velbastaður",
       "description": "settlement on Streymoy, Faroe Islands",
+      "name_origin": "I Fossdalur ved Velbastaður er det avdekket hustufter fra [[vikingtiden]].  Bygden skal ha vært avfolket en tid etter [[svartedauden]] på 1300-tallet. Velbastaður er første gang nevnt skriftlig i [[jordebok]]en fra 1584.  Velbastaður er det eneste bygdenavnet på Færøyene som ender på ''-staður'', «stad». Navnet kan skrive seg fra [[landnåm]]et, og vise til et mannsnavn, som ''Vilbjǫrn'' eller ''Valbjǫrn''. Eller så kan navnet ha samme, antatte opphav som gårdsnavnene [[Vebostad]] i [[Kvæfjord]] og Veibust på [[Sula]], som i [[Aslak Bolts jordebok]] kalles ''Vebolstad(um)''. Navnene skal vise til «et helligt Bosted eller en Gaard som paa en eller anden Maade er knyttet til en Helligdom», ifølge stedsnavnsgranskeren [[Karl Rygh]]. ",
       "ipa": "ˈvɛlbaˌstɛavʊɹ",
       "geo": {
         "latitude": 61.984722222222,
@@ -1169,6 +1286,7 @@
     {
       "name": "Vestmanna",
       "description": "settlement on Streymoy, Faroe Islands",
+      "name_origin": "Bygdenavnet kommer fra [[norrønt (språk)|norrønt]] ''Vestmannahǫfn'', hvor det siste leddet henspiller på den naturlige havnen.  Folkenavnet ''vestmenn'' viser trolig til [[norrøn-gælere]] som bosatte øyene. Bygda deler slik navneopphav med [[Vestmannaeyjar]] på [[Island]].",
       "ipa": null,
       "geo": {
         "latitude": 62.156388888889,
@@ -1179,6 +1297,7 @@
     {
       "name": "Viðareiði",
       "description": "human settlement",
+      "name_origin": "Et sagn forteller at den første bebyggelsen på stedet stod oppe ved grenden Garður, muligens noe øst eller nedenfor dagens bebyggelse her. Dette kan i så fall spores tilbake til [[landnåm]]et på Færøyene i [[vikingtiden]] mellom år 800 og 1050. Ifølge [[Christian Matras]] forekommer stedsnavn som ''garður'', «gård», ofte på de eldste delene av bygdene på Færøyene. Viðareiði er første gang nevnt skriftlig i ''[[Hundabrævið]]'' fra siste halvdel av 1300-tallet. ",
       "ipa": "ˈviːjaɹˌaijɪ",
       "geo": {
         "latitude": 62.3601,
