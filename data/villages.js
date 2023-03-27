@@ -136,10 +136,14 @@ async function getNameOrigin(article) {
   // Stedsnavnet er sammensatt av norrønt mikill, «stor», og dal. Mikladalur 
   // er første gang nevnt i Hundebrevet fra siste
   const matches = /[^\n]+(navnet|nevnt)[^\n]+/.exec(wikitext);
-  const origin = matches ? matches[0] : null;
+  let origin = matches ? matches[0] : null;
+
+  // remove the <ref> part
+  if (origin) {
+    origin = origin.replace(/<ref>[^<]+<\/ref>/g, ' ');
+  }
 
   logger.verbose("origin", origin ?? 'n/a');
-
   return origin;
 }
 
