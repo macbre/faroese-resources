@@ -124,6 +124,26 @@ async function getIPA(article) {
 }
 
 /**
+ * @param {string} article
+ * @return {Promise<string|null>}
+ */
+async function getNameOrigin(article) {
+  const wikitext = await getArticleInLang(article, 'nowiki');
+
+  // e.g. https://no.wikipedia.org/wiki/Hald%C3%B3rsv%C3%ADk
+  // Det første leddet i stedsnavnet kommer av mannsnavnet Haldór eller Halldór. Stedsnavneutvalget godkjente i 1960 skriveformen Haldarsvík, som i 2011 ble endret til Haldórsvík.[2][3]
+  // Det første leddet i stedsnavnet Æðuvík kommer av færøysk æða, ærfugl.[3]
+  // Stedsnavnet er sammensatt av norrønt mikill, «stor», og dal. Mikladalur 
+  // er første gang nevnt i Hundebrevet fra siste
+  const matches = /[^\n]+(navnet|nevnt)[^\n]+/.exec(wikitext);
+  const origin = matches ? matches[0] : null;
+
+  logger.verbose("origin", origin ?? 'n/a');
+
+  return origin;
+}
+
+/**
  *
  * @param {string} article
  * @return {Promise<Object>}
@@ -181,6 +201,7 @@ async function main() {
     results.villages.push({
       name: article,
       description: await getDescription(article),
+      name_origin: await getNameOrigin(article),
       ipa: await getIPA(article),
       geo: await getGeo(article),
     });
