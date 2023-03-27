@@ -3,6 +3,6 @@ version: 2
 updates:
 
   - package-ecosystem: "npm"
-    directory: "/transport/server"
+    directory: "/data"
     schedule:
       interval: "daily"
