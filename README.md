@@ -12,6 +12,7 @@
 * [Faroese, Michael P. Barnes, with Eivind Weyhe](https://theswissbay.ch/pdf/Books/Linguistics/Mega%20linguistics%20pack/Indo-European/Germanic/Faroese%20%28Barnes%20%26%20Weyhe%29.pdf)
 * [Faroese (Faringisch, Faroisch, Farisch), Helge Sandoy](https://folk.uib.no/hnohs/Publikasjonar/Sandoy,%200951%20Faroese,%20Wieser%20E.pdf) (includes a chapter on "Language policy and politics, attitudes")
 * [Danish in the Faroe Islands: A Post-Colonial Perspective](https://discovery.ucl.ac.uk/id/eprint/1348494/1/1348494_Complete_Thesis_Public_-_John_Mitchinson.pdf)
+* [sprotin.fo - proverbs](https://sprotin.fo/dictionaries?_SearchInflections=0&_SearchDescriptions=1&_DictionaryId=2&_DictionaryPage=1&_SearchFor=(or%C3%B0t.))
 
 ### Nature
 
