@@ -27,6 +27,7 @@
 * [See a bit of all cities and villages on the Faroe Islands](https://faroeislands.dk/pages/index.htm)
 * [The Faeroe Islands Topographic Atlas 1988](https://rdgs.dk/publikationer/The-Faeroe-Islands-Topographic-Atlas.pdf)
 * [Politics in Small Independent Communities](https://leicester.figshare.com/articles/thesis/Politics_in_Small_Independent_Communities/10091375/1/files/18192776.pdf)
+* [The Norse settlement of Shetland and Faroe, c.800-c.1500: a comparative study, Lindsay Macgregor](https://www.academia.edu/51690291/The_Norse_settlement_of_Shetland_and_Faroe_c_800_c_1500_a_comparative_study) (places names)
 
 ### News
 
