@@ -45,6 +45,7 @@
 * [history.fo - Jarðarbókin 1584](http://history.fo/index.php?id=889)
 * [Føroya søga : Hans Jacob Debes](https://archive.org/details/bub_gb_IOchF9PaNKEC/page/n161/mode/2up)
 * [Faroese press archives](https://apps.infomedia.dk/avisportal/da/fao)
+* [Fróðskaparrit - Faroese Scientific Journal archives](https://ojs.setur.fo/index.php/frit/issue/archive)
 * [Bygdanøvn broytt, 2010](https://web.archive.org/web/20170626110729/http://www.co2.fo/Default.aspx?ID=13805&Action=1&NewsId=3423&currentPage=34&M=NewsV2&PID=31403)
 
 ### Blogs
