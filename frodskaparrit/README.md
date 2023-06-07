@@ -35,3 +35,21 @@ less articles.json
     "published": "2022-11-25"
 }
 ```
+
+### Fetching articles
+
+`articles.json` has the information on all the publications scraped from [the Journal archive](https://ojs.setur.fo/index.php/frit).
+
+```
+$ jq .[].pdf -r articles.json | head
+https://ojs.setur.fo/index.php/frit/article/download/139/239
+https://ojs.setur.fo/index.php/frit/article/download/143/244
+https://ojs.setur.fo/index.php/frit/article/download/140/567
+https://ojs.setur.fo/index.php/frit/article/download/144/245
+https://ojs.setur.fo/index.php/frit/article/download/304/414
+https://ojs.setur.fo/index.php/frit/article/download/126/pdf_1
+https://ojs.setur.fo/index.php/frit/article/download/131/pdf
+https://ojs.setur.fo/index.php/frit/article/download/136/pdf_1
+https://ojs.setur.fo/index.php/frit/article/download/127/pdf
+https://ojs.setur.fo/index.php/frit/article/download/109/213
+```
