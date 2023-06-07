@@ -66,6 +66,8 @@
 
 ## [Books published by Fróðskapur - Faroe University Press](https://ojs.setur.fo/index.php/frodskapur)
 
+> Publications older than 5 years and available in digital format in full length.
+
 * [Fiskivinnan sum broytingaramboð hjá amtmanninum](https://ojs.setur.fo/index.php/frodskapur/article/download/159/873) by Erling Isholm
 * [Kvæði – nýggj sjónarmið](https://ojs.setur.fo/index.php/frodskapur/article/download/209/864) by Eyðun Andreassen
 * [Bók Jógvan](https://ojs.setur.fo/index.php/frodskapur/article/download/210/869) by Zakaris S. Hansen
