@@ -64,6 +64,64 @@
 * [Færøske folkesagn og æventyr udg. for Samfund til udgivelse af gammel nordisk literatur : Jakobsen, Jakob](https://archive.org/details/frskefolkesagno00jakogoog)
 * [Færøsk anthologi : Hammershaimb, V. U. (Venceslaus Ulricus)](https://archive.org/details/frskanthologivo00denmgoog)
 
+## [Books published by Fróðskapur - Faroe University Press](https://ojs.setur.fo/index.php/frodskapur)
+
+> Publications older than 5 years and available in digital format in full length.
+
+* [Fiskivinnan sum broytingaramboð hjá amtmanninum](https://ojs.setur.fo/index.php/frodskapur/article/download/159/873) by Erling Isholm
+* [Kvæði – nýggj sjónarmið](https://ojs.setur.fo/index.php/frodskapur/article/download/209/864) by Eyðun Andreassen
+* [Bók Jógvan](https://ojs.setur.fo/index.php/frodskapur/article/download/210/869) by Zakaris S. Hansen
+* [North Atlantic Euroscepticism](https://ojs.setur.fo/index.php/frodskapur/article/download/185/264) by Christian Rebhan
+* [The Rise of Faroese Separatism.](https://ojs.setur.fo/index.php/frodskapur/article/download/189/275) by Hans Andrias Sølvará
+* [Frændafundur 8](https://ojs.setur.fo/index.php/frodskapur/article/download/151/250) by María Garðarsdóttir
+* [Proceedings of the 4th Faroe Islands Exploration Conference](https://ojs.setur.fo/index.php/frodskapur/article/download/215/277) by Óluva R. Eidesgaard
+* [Er heima til?](https://ojs.setur.fo/index.php/frodskapur/article/download/211/871) by Bergur Djurhuus Hansen
+* [Bót og biti](https://ojs.setur.fo/index.php/frodskapur/article/download/212/865) by Jóan Pauli Joensen
+* [Frá sjálvstýri móti loysing](https://ojs.setur.fo/index.php/frodskapur/article/download/190/276) by Hans Andrias Sølvará
+* [Betwixt and Between](https://ojs.setur.fo/index.php/frodskapur/article/download/148/249) by Janna Egholm Hansen
+* [Vestnorden](https://ojs.setur.fo/index.php/frodskapur/article/download/213/769) by Gestur Hovgaard
+* [Frá Sturlungu til West Venture](https://ojs.setur.fo/index.php/frodskapur/article/download/149/248) by Hansen Zakaris Svabo
+* [Brethren in the Faroes](https://ojs.setur.fo/index.php/frodskapur/article/download/208/768) by Tórður Jóansson
+* [Proceedings of the 3rd Faroe Islands Exploration Conference](https://ojs.setur.fo/index.php/frodskapur/article/download/218/278) by Thomas Varming
+* [Færøysk liv i nordisk perspektiv](https://ojs.setur.fo/index.php/frodskapur/article/download/157/256) by None
+* [Vestnordisk språkkontakt gjennom 1200 år](https://ojs.setur.fo/index.php/frodskapur/article/download/184/251) by None
+* [Danse- og sanglege på Færøerne](https://ojs.setur.fo/index.php/frodskapur/article/download/155/252) by Andrea Susanne Opielka
+* [Dorete - her book](https://ojs.setur.fo/index.php/frodskapur/article/download/156/255) by None
+* [Pilot Whaling in the Faroe Islands](https://ojs.setur.fo/index.php/frodskapur/article/download/174/862) by Jóan Pauli Joensen
+* [Proceedings of the 2nd Faroe Islands Exploration Conference](https://ojs.setur.fo/index.php/frodskapur/article/download/219/279) by Thomas Varming
+* [Frændafundur 6](https://ojs.setur.fo/index.php/frodskapur/article/download/160/271) by Magnús Snædal
+* [Miðlar, mentan &amp; seinmodernitetur](https://ojs.setur.fo/index.php/frodskapur/article/download/171/263) by None
+* [Sæteren ved Argisbrekka](https://ojs.setur.fo/index.php/frodskapur/article/download/177/258) by Ditlev L. Mahler
+* [Útlitini fyri einum málskifti](https://ojs.setur.fo/index.php/frodskapur/article/download/167/860) by Rakul Skaale Andreassen
+* [Kenn mær einki um](https://ojs.setur.fo/index.php/frodskapur/article/download/162/861) by None
+* [Orð, mynd og veruleiki](https://ojs.setur.fo/index.php/frodskapur/article/download/193/772) by Malan Marnersdóttir
+* [Í Bókmentagrønanum](https://ojs.setur.fo/index.php/frodskapur/article/download/194/771) by Bergur Djurhuus Hansen
+* [Ungur nemur](https://ojs.setur.fo/index.php/frodskapur/article/download/195/770) by Turið Sigurðardóttir
+* [Platon](https://ojs.setur.fo/index.php/frodskapur/article/download/175/260) by Bergur Djurhuus Hansen
+* [Royndin](https://ojs.setur.fo/index.php/frodskapur/article/download/176/867) by None
+* [Fjallanøvn í Føroyum](https://ojs.setur.fo/index.php/frodskapur/article/download/192/868) by Eivind Weyhe
+* [Traditional Faroese Food Culture](https://ojs.setur.fo/index.php/frodskapur/article/download/179/259) by None
+* [Ævintýr](https://ojs.setur.fo/index.php/frodskapur/article/download/196/774) by Eyðun Andreassen
+* [Frá tilboði til læknastríð](https://ojs.setur.fo/index.php/frodskapur/article/download/187/273) by Hans Andrias Sølvará
+* [Lessons of Islands](https://ojs.setur.fo/index.php/frodskapur/article/download/198/773) by Firouz Gaini
+* [Tey fyrstu jólini](https://ojs.setur.fo/index.php/frodskapur/article/download/178/257) by None
+* [Naboer i Nordatlanten](https://ojs.setur.fo/index.php/frodskapur/article/download/173/261) by Andras Mortensen
+* [Eivindaródn](https://ojs.setur.fo/index.php/frodskapur/article/download/150/247) by Anfinnur Johansen
+* [Malunarmót](https://ojs.setur.fo/index.php/frodskapur/article/download/168/268) by Eyðun Andreassen
+* [Among the Islanders of the North](https://ojs.setur.fo/index.php/frodskapur/article/download/152/253) by Firouz Gaini
+* [Hentzasavn](https://ojs.setur.fo/index.php/frodskapur/article/download/161/270) by Eivind Weyhe
+* [Konubrot](https://ojs.setur.fo/index.php/frodskapur/article/download/164/269) by Bjørg Jacobsen
+* [Brot úr Føroya søgu](https://ojs.setur.fo/index.php/frodskapur/article/download/153/254) by Lena Nolsøe
+* [Greinasavn um Sameindu Tjóðir og Mannarættindi](https://ojs.setur.fo/index.php/frodskapur/article/download/169/267) by None
+* [Christian Matras’ brevveksling med William Heinesen og Karsten Hoydal](https://ojs.setur.fo/index.php/frodskapur/article/download/170/265) by None
+* [Kommunupolitikkur](https://ojs.setur.fo/index.php/frodskapur/article/download/163/266) by Beinta í Jákupsstovu
+* [Símunarbók](https://ojs.setur.fo/index.php/frodskapur/article/download/201/286) by Helgi Michelsen
+* [Guds orð ella orð um Gud](https://ojs.setur.fo/index.php/frodskapur/article/download/188/274) by Hans Andrias Sølvará
+* [Hjarta uttan fylgisneyta](https://ojs.setur.fo/index.php/frodskapur/article/download/204/776) by Hanus Kamban
+* [Adressumálið](https://ojs.setur.fo/index.php/frodskapur/article/download/186/272) by Hans Andrias Sølvará
+* [Endurreisn kvæðana](https://ojs.setur.fo/index.php/frodskapur/article/download/191/775) by Sólfinn Hansen
+
+
 ----
 
 ## Videos
