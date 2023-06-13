@@ -86,5 +86,5 @@ $ wc -l urls.txt
 And mass-fetch it with `wget`:
 
 ```
-$ wget --user-agent="faroese-resources/frodskaparrit scrapper" --input-file=urls.txt 
+$ wget --user-agent="faroese-resources/frodskaparrit scrapper" --input-file=urls.txt --no-clobber
 ```
