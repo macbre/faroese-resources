@@ -83,8 +83,10 @@ $ wc -l urls.txt
      717 urls.txt
 ```
 
-And mass-fetch it with `wget`:
+And mass-fetch it [with `curl`](https://curl.se/docs/manpage.html#-J):
 
 ```
-$ wget --user-agent="faroese-resources/frodskaparrit scrapper" --input-file=urls.txt --no-clobber
+for URL in $(cat urls.txt); do \
+    curl "$URL" -H 'user-agent=faroese-resources/frodskaparrit' --remote-name --remote-header-name --output-dir /tmp/frodskaparrit --create-dirs;
+done
 ```
