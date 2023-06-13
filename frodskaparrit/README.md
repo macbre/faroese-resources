@@ -73,3 +73,18 @@ https://ojs.setur.fo/index.php/frit/article/download/136/pdf_1
 https://ojs.setur.fo/index.php/frit/article/download/127/pdf
 https://ojs.setur.fo/index.php/frit/article/download/109/213
 ```
+
+Combine URLs for both publications and books:
+
+```
+$ jq .[].pdf -r articles.json | grep -v null > urls.txt
+$ jq .[].pdf -r books.json | grep -v null >> urls.txt
+$ wc -l urls.txt 
+     717 urls.txt
+```
+
+And mass-fetch it with `wget`:
+
+```
+$ wget --user-agent="faroese-resources/frodskaparrit scrapper" --input-file=urls.txt 
+```
