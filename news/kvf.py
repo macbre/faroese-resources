@@ -57,7 +57,7 @@ def get_news_content(url: str) -> Optional[str]:
     # <meta property="og:title" content="Hackers nearly paralysed all Faroese websites" />
     title = re.search(r'<meta property="og:title" content="([^"]+)" />', html)
     # <meta property="og:description" content="All activity on Faroese websites narrowly escaped a complete shutdown in 2018 when domain administrator was hacked" />
-    lead = re.search(r'<meta property="og:description" content="([^"]+)" />', html)
+    lead = re.search(r'<meta property="og:description" content="([^"]+)" />', html) or ('','')
 
     # <div class="field-item even" property="content:encoded">
     # ...
@@ -69,7 +69,7 @@ def get_news_content(url: str) -> Optional[str]:
     content = content[ : content.find(END_MARKER) ]
 
     try:
-        logger.info(title[1])
+        logger.info(f'{title[1]} <{url}>')
 
         return f'<h1>{title[1]}</h1>\n<h2>{lead[1]}</h2>\n<address>{url}</address>\n\n{content}'
     except Exception:
