@@ -83,7 +83,10 @@ def main():
         ])
 
         for url in get_news_urls():
-            fp.write(get_news_content(url) + "\n\n")
+            try:
+                fp.write(get_news_content(url) + "\n\n")
+            except Exception:
+                logging.error(f'get_news_content({url}) failed', exc_info=True)
 
         fp.writelines([
             '</body>'
