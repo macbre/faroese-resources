@@ -11,10 +11,26 @@ from shared import get_http_client
 
 BASE_URL = 'https://kvf.fo/'
 
+
+def yield_urls_from_html(html: str) -> Iterable[str]:
+    # <div class="views-field views-field-title">        <span class="field-content"><a href="/greinar/2023/08/31/nuns-stop-next-summer">
+    for match in re.finditer(r'<div class="views-field views-field-title">\s+<span class="field-content"><a href="([^"]+)">', html, re.IGNORECASE):
+        # e.g. /greinar/2023/08/31/nuns-stop-next-summer
+        yield f'{BASE_URL}{match.group(1).lstrip("/")}'
+
+
 def get_news_urls() -> Iterable[str]:
     logger = logging.getLogger('get_news_urls')
-    page = 0
 
+    # first, parse the front page
+    resp = get_http_client().get(f'{BASE_URL}forsida/english')
+    resp.raise_for_status()
+
+    yield from yield_urls_from_html(resp.text)
+
+
+    # now, iterate over sub-pages
+    page = 1
     while True:
         # curl 'https://kvf.fo/views/ajax' -X POST --data-raw 'page=12&view_name=english_news&view_display_id=block_9'
         resp = get_http_client().post(f'{BASE_URL}/views/ajax', data={
@@ -29,12 +45,8 @@ def get_news_urls() -> Iterable[str]:
         parsed = json.loads(resp.text)
 
         # now, parse the HTML content looking for links
-        # <div class="views-field views-field-title">        <span class="field-content"><a href="/greinar/2023/08/31/nuns-stop-next-summer">
         html = parsed[1]['data']
-
-        for match in re.finditer(r'<div class="views-field views-field-title">\s+<span class="field-content"><a href="([^"]+)">', html, re.IGNORECASE):
-            # e.g. /greinar/2023/08/31/nuns-stop-next-summer
-            yield f'{BASE_URL}{match.group(1).lstrip("/")}'
+        yield from yield_urls_from_html(html)
 
         # no more data
         if 'field-content' not in html:
