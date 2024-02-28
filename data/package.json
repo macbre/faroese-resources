@@ -13,7 +13,7 @@
     "prettier": "^3.2.4"
   },
   "dependencies": {
-    "nodemw": "^0.20.0",
+    "nodemw": "^0.21.0",
     "npmlog": "^7.0.1"
   }
 }
