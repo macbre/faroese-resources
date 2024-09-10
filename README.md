@@ -29,6 +29,7 @@
 * [Politics in Small Independent Communities](https://leicester.figshare.com/articles/thesis/Politics_in_Small_Independent_Communities/10091375/1/files/18192776.pdf)
 * [The Norse settlement of Shetland and Faroe, c.800-c.1500: a comparative study, Lindsay Macgregor](https://www.academia.edu/51690291/The_Norse_settlement_of_Shetland_and_Faroe_c_800_c_1500_a_comparative_study) (places names)
 * [Brandt, Don (2006). More Stamps and Story of the Faroe Islands](https://web.archive.org/web/20110927130140/http://www.faroestamps.fo/download/stamps_i_england-22.pdf)
+* [Trap - The Faroe Islands](https://trap.fo/en/)
 
 ### News
 
