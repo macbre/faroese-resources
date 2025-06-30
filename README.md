@@ -30,6 +30,8 @@
 * [The Norse settlement of Shetland and Faroe, c.800-c.1500: a comparative study, Lindsay Macgregor](https://www.academia.edu/51690291/The_Norse_settlement_of_Shetland_and_Faroe_c_800_c_1500_a_comparative_study) (places names)
 * [Brandt, Don (2006). More Stamps and Story of the Faroe Islands](https://web.archive.org/web/20110927130140/http://www.faroestamps.fo/download/stamps_i_england-22.pdf)
 * [Trap - The Faroe Islands](https://trap.fo/en/)
+* [Schei, Liv Kjörsvik, The Faroe Islands (1991)](https://archive.org/details/faroeislands0000sche)
+* [Rúni í Múla, The Obscure and Fun Facts of the Faroe Islands: A Travel Guide and Alternative Introduction to Faroese Society and Culture (2023](https://www.goodreads.com/book/show/162202603-the-obscure-and-fun-facts-of-the-faroe-islands)
 
 ### News
 
