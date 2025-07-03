@@ -9,7 +9,7 @@
   "author": "Maciej Brencz",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^30.0.3",
+    "jest": "^30.0.4",
     "prettier": "^3.6.2"
   },
   "dependencies": {
