@@ -72,7 +72,7 @@
 * [Færøske folkesagn og æventyr udg. for Samfund til udgivelse af gammel nordisk literatur : Jakobsen, Jakob](https://archive.org/details/frskefolkesagno00jakogoog)
 * [Færøsk anthologi : Hammershaimb, V. U. (Venceslaus Ulricus)](https://archive.org/details/frskanthologivo00denmgoog)
 
-## [Books published by Fróðskapur - Faroe University Press](https://ojs.setur.fo/index.php/frodskapur)
+## [Books published by Fróðskapur - Faroe University Press](https://ojs.setur.fo/index.php/frodskapur/issue/archive)
 
 > Publications older than 5 years and available in digital format in full length.
 
