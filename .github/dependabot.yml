@@ -5,3 +5,8 @@ updates:
     directory: "/data"
     schedule:
       interval: "daily"
+
+  - package-ecosystem: "pip"
+    directory: "/frodskaparrit"
+    schedule:
+      interval: "daily"
