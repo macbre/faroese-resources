@@ -17,6 +17,8 @@
 ### Nature
 
 * [Birds of the Faroe Islands](https://old.visitfaroeislands.com/media/181923/Visit-Faroe-Islands-Birds_UK-singlepages.pdf)
+* [Pigs in the Faroe Islands: An Ancient Facet of the Islands' Paleoeconomy](https://www.researchgate.net/publication/232686068_Pigs_in_the_Faroe_Islands_An_Ancient_Facet_of_the_Islands'_Paleoeconomy)
+* [Puffins, Pigs, Cod and Barley: Palaeoeconomy at Undir Junkarinsfltti, Sandoy, Faroe Islands](https://www.researchgate.net/publication/233491174_Puffins_Pigs_Cod_and_Barley_Palaeoeconomy_at_Undir_Junkarinsfltti_Sandoy_Faroe_Islands)
 
 ### History
 
