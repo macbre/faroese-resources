@@ -10,7 +10,7 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^30.4.2",
-    "prettier": "^3.9.5"
+    "prettier": "^3.9.6"
   },
   "dependencies": {
     "nodemw": "^0.27.0",
