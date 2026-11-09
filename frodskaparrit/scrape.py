@@ -11,7 +11,7 @@ import logging
 
 
 class HttpSession:
-    USER_AGENT = 'faroese-resources/frodskaparrit scrapper'
+    USER_AGENT = 'faroese-resources/frodskaparrit scrapper (+https://github.com/macbre/faroese-resources/)'
     _session = None
 
     @classmethod
@@ -143,7 +143,7 @@ if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
     articles = scrape()
 
-    # were to store the articles
+    # where to store the articles
     filepath = path.join(
         path.abspath(path.dirname(__file__)),
         'articles.json'
