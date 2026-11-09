@@ -1,4 +1,4 @@
-name: Update scrapped resources indices
+name: Update scrapped resources JSON indices
 
 on:
   workflow_dispatch: 
@@ -21,9 +21,19 @@ jobs:
     - name: Install dependencies and run the script
       working-directory: frodskaparrit
       run: |
+        set -x
         pip install -r requirements.txt
+        python books.py
         python scrape.py
 
     - name: Show changes
       run: |
         git diff
+
+    # By default, the commit is made in the name of "GitHub Actions"
+    # and co-authored by the user that made the last commit.
+    # https://github.com/marketplace/actions/git-auto-commit
+    - name: Commit the changes to the binary files
+      uses: stefanzweifel/git-auto-commit-action@v7
+      with:
+        commit_message: "Update the Fróðskaparrit - Faroese Scientific Journal publications"
