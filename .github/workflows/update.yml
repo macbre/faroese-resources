@@ -1,0 +1,29 @@
+name: Update scrapped resources indices
+
+on:
+  workflow_dispatch: 
+
+permissions:
+  contents: write
+
+jobs:
+  # scrape https://ojs.setur.fo/index.php/frit/issue/archive
+  frodskaparrit:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python 3.x
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.x"
+
+    - name: Install dependencies and run the script
+      working-directory: frodskaparrit
+      run: |
+        pip install -r requirements.txt
+        python scrape.py
+
+    - name: Show changes
+      run: |
+        git diff
