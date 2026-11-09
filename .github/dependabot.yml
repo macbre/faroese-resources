@@ -10,3 +10,8 @@ updates:
     directory: "/frodskaparrit"
     schedule:
       interval: "daily"
+
+  - package-ecosystem: "pip"
+    directory: "/news"
+    schedule:
+      interval: "daily"
