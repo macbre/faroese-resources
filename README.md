@@ -42,6 +42,7 @@
 ### Others
 
 * [Faroese information boards on Flickr](https://www.flickr.com/groups/faroese-infornation-boards/)
+* [Faroese Street Art on map](https://streetartcities.com/cities/torshavn)
 
 ## Faroese
 
